@@ -1,0 +1,6 @@
+<map id="tlqd.TLqdCapture" name="tlqd.TLqdCapture">
+<area shape="rect" id="node2" href="$namespacetlqd.html#abe90e3902ba0999f9c19a8a28d4a187d" title="Get a list of compressed audio formats. " alt="" coords="176,13,380,39"/>
+<area shape="rect" id="node3" href="$namespacetlqd.html#a232dad18e70b289da5b809598b3a18f4" title="Get eARC audio LPCM. " alt="" coords="428,13,585,39"/>
+<area shape="rect" id="node4" href="$namespacetlqd.html#a38bcf60323e89bc8d958648588121955" title="Get the eARC audio being received. " alt="" coords="633,5,812,47"/>
+<area shape="rect" id="node5" href="$namespacetlqd.html#ac1b471cfe1964a4e3d079c160bae0369" title="Is output enabled/disabled. " alt="" coords="860,13,1033,39"/>
+</map>

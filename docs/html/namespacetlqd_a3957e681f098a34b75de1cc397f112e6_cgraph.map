@@ -1,0 +1,26 @@
+<map id="tlqd.TLqdHF1_14" name="tlqd.TLqdHF1_14">
+<area shape="rect" id="node2" href="$namespacetlqd.html#a057711d14430522d3e0f63a9ba90b11d" title="Run an iteration of HDMI source test HF1&#45;11. " alt="" coords="176,35,299,61"/>
+<area shape="rect" id="node3" href="$namespacetlqd.html#a7b072c291200b257bbc78e28c2a19170" title="Run HDMI 1.4 source test 7&#45;39. " alt="" coords="347,35,451,61"/>
+<area shape="rect" id="node4" href="$namespacetlqd.html#a5e1b33e70dba6e853bd3f48a8fb7aace" title="Run HDMI 1.4 source test 7&#45;36. " alt="" coords="499,35,603,61"/>
+<area shape="rect" id="node5" href="$namespacetlqd.html#a3ec4e585497b2bb120d76f7a32c213c6" title="Run HDMI 1.4 source test 7&#45;33a. " alt="" coords="651,35,761,61"/>
+<area shape="rect" id="node6" href="$namespacetlqd.html#a4f59f9e13b66c2fb9c0a80b0b040a83d" title="Run HDMI 1.4 source test 7&#45;31. " alt="" coords="809,35,913,61"/>
+<area shape="rect" id="node7" href="$namespacetlqd.html#abd83b84f917871d5b6f5d0e7735a6767" title="Run HDMI 1.4 source test 7&#45;29. " alt="" coords="961,35,1065,61"/>
+<area shape="rect" id="node8" href="$namespacetlqd.html#a8d2d52635c852cbb608887ce87181802" title="Run HDMI 1.4 source test 7&#45;26. " alt="" coords="1113,9,1217,36"/>
+<area shape="rect" id="node17" href="$namespacetlqd.html#aa83f7b2ec4c8cb97dd65b6d688e67c1e" title="Run HDMI 1.4 source test 7&#45;27. " alt="" coords="1113,60,1217,87"/>
+<area shape="rect" id="node9" href="$namespacetlqd.html#acb21579a70bf4521bcc371795db9c688" title="Run HDMI 1.4 source test 7&#45;23. " alt="" coords="1265,9,1369,36"/>
+<area shape="rect" id="node10" href="$namespacetlqd.html#a6548b515431f37be851ca2689ca4045c" title="Run HDMI 1.4 source test 7&#45;17. " alt="" coords="1417,8,1521,35"/>
+<area shape="rect" id="node11" href="$namespacetlqd.html#ac1b66a99ed5ff9f792e9e67ac018c99a" title="Is ARC audio supported? " alt="" coords="1573,7,1739,33"/>
+<area shape="rect" id="node12" href="$namespacetlqd.html#a14540eca539b630c7ccb0b31abc04bdd" title="Get a general control packet. " alt="" coords="1823,5,1944,32"/>
+<area shape="rect" id="node13" href="$namespacetlqd.html#ab78c5115c6ca2e1e163475d53e622ef7" title="Get one pixel. " alt="" coords="2053,5,2180,32"/>
+<area shape="rect" id="node14" href="$namespacetlqd.html#a0ea2be10f012dcf9f04510a758315250" title="Set the video image rendition. " alt="" coords="2257,5,2444,32"/>
+<area shape="rect" id="node15" href="$namespacetlqd.html#a0220c5c1de89f5f9e4e971aeae3e54b8" title="Get the video image parameter value. " alt="" coords="2492,5,2685,32"/>
+<area shape="rect" id="node16" href="$namespacetlqd.html#ace3dac2f0c6affd4be59ebe36343bcf6" title="Set the the Info Frame Packet data(ISRC1, ISRC2 and ACP) " alt="" coords="2751,5,2899,32"/>
+<area shape="rect" id="node18" href="$namespacetlqd.html#a38e7d0d8a59d0ffa60f7efb5aa418e5d" title="Run HDMI 1.4 source test 7&#45;24. " alt="" coords="1265,60,1369,87"/>
+<area shape="rect" id="node19" href="$namespacetlqd.html#a2c20ad4d0d87ee9d29fa25f9a1be8549" title="Run HDMI 1.4 source test 7&#45;18. " alt="" coords="1417,60,1521,87"/>
+<area shape="rect" id="node20" href="$namespacetlqd.html#aafb781ecb956b9aab7c8be9067616ede" title="Is eARC audio supported? " alt="" coords="1569,60,1743,87"/>
+<area shape="rect" id="node21" href="$namespacetlqd.html#a7ef2066c9029380ada7150a7306fda10" title="Get a vendor specific infoframe. " alt="" coords="1791,57,1976,98"/>
+<area shape="rect" id="node22" href="$namespacetlqd.html#aa232bee54630efbc3a66529ba0414ad8" title="Get an audio infoframe. " alt="" coords="2024,64,2209,91"/>
+<area shape="rect" id="node23" href="$namespacetlqd.html#a9598e3598fd19de63205146e2cac5f7c" title="Set scrambling mode. " alt="" coords="2270,64,2431,91"/>
+<area shape="rect" id="node24" href="$namespacetlqd.html#a77c39ebee9636b0d6a283ae378fc839f" title="Set a video image parameter value. " alt="" coords="2493,64,2685,91"/>
+<area shape="rect" id="node25" href="$namespacetlqd.html#a874f088a39398bce71af6f6a26217da3" title="Get the Info Frame Packet data(ISRC1, ISRC2 and ACP) " alt="" coords="2733,64,2917,91"/>
+</map>

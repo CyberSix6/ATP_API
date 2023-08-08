@@ -1,0 +1,7 @@
+<map id="tlqd.TLqdGetReceivedFormat" name="tlqd.TLqdGetReceivedFormat">
+<area shape="rect" id="node2" href="$namespacetlqd.html#ac479f3f006442ff0e45135866e5cedd6" title="Get an AVI infoframe. " alt="" coords="247,5,417,32"/>
+<area shape="rect" id="node3" href="$namespacetlqd.html#a34acbc74a5b7811f689cbf245a07ce37" title="Get the current scrambling mode. " alt="" coords="465,5,628,32"/>
+<area shape="rect" id="node4" href="$namespacetlqd.html#ab95eb26dab14e2094daa96d0e639d16e" title="Get the number of video image renditions. " alt="" coords="676,5,871,32"/>
+<area shape="rect" id="node5" href="$namespacetlqd.html#a51de06842385d10c40f612959a9f9db5" title="Get the list of video format images. " alt="" coords="919,5,1059,32"/>
+<area shape="rect" id="node6" href="$namespacetlqd.html#a2a54a8ba8d443689546ad7f5d4b8f45a" title="Enable/Disable the Info frame packets. " alt="" coords="1107,5,1280,32"/>
+</map>

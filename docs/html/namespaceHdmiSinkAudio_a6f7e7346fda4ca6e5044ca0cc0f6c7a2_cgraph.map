@@ -1,0 +1,14 @@
+<map id="HdmiSinkAudio.showAudio" name="HdmiSinkAudio.showAudio">
+<area shape="rect" id="node2" href="$namespacetlqd.html#ac1b66a99ed5ff9f792e9e67ac018c99a" title="Is ARC audio supported? " alt="" coords="237,8,403,35"/>
+<area shape="rect" id="node8" href="$namespacetlqd.html#aafb781ecb956b9aab7c8be9067616ede" title="Is eARC audio supported? " alt="" coords="233,60,407,87"/>
+<area shape="rect" id="node3" href="$namespacetlqd.html#a14540eca539b630c7ccb0b31abc04bdd" title="Get a general control packet. " alt="" coords="487,5,608,32"/>
+<area shape="rect" id="node4" href="$namespacetlqd.html#ab78c5115c6ca2e1e163475d53e622ef7" title="Get one pixel. " alt="" coords="717,5,844,32"/>
+<area shape="rect" id="node5" href="$namespacetlqd.html#a0ea2be10f012dcf9f04510a758315250" title="Set the video image rendition. " alt="" coords="921,5,1108,32"/>
+<area shape="rect" id="node6" href="$namespacetlqd.html#a0220c5c1de89f5f9e4e971aeae3e54b8" title="Get the video image parameter value. " alt="" coords="1156,5,1349,32"/>
+<area shape="rect" id="node7" href="$namespacetlqd.html#ace3dac2f0c6affd4be59ebe36343bcf6" title="Set the the Info Frame Packet data(ISRC1, ISRC2 and ACP) " alt="" coords="1415,5,1563,32"/>
+<area shape="rect" id="node9" href="$namespacetlqd.html#a7ef2066c9029380ada7150a7306fda10" title="Get a vendor specific infoframe. " alt="" coords="455,57,640,98"/>
+<area shape="rect" id="node10" href="$namespacetlqd.html#aa232bee54630efbc3a66529ba0414ad8" title="Get an audio infoframe. " alt="" coords="688,64,873,91"/>
+<area shape="rect" id="node11" href="$namespacetlqd.html#a9598e3598fd19de63205146e2cac5f7c" title="Set scrambling mode. " alt="" coords="934,64,1095,91"/>
+<area shape="rect" id="node12" href="$namespacetlqd.html#a77c39ebee9636b0d6a283ae378fc839f" title="Set a video image parameter value. " alt="" coords="1157,64,1349,91"/>
+<area shape="rect" id="node13" href="$namespacetlqd.html#a874f088a39398bce71af6f6a26217da3" title="Get the Info Frame Packet data(ISRC1, ISRC2 and ACP) " alt="" coords="1397,64,1581,91"/>
+</map>

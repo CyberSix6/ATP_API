@@ -1,0 +1,8 @@
+<map id="tlqd.TLqdInstrument.setTestAutoRegister" name="tlqd.TLqdInstrument.setTestAutoRegister">
+<area shape="rect" id="node2" href="$classtlqd_1_1TLqdInstrument.html#a9c55b94a316f85ff518a6bc53e3f5cd4" title="Send a command to the quantumdata instrument. " alt="" coords="1008,85,1207,111"/>
+<area shape="rect" id="node4" href="$classtlqd_1_1TLqdInstrument.html#a4f069ed4304186735e32ba63a5a07e72" title="Get the current Test Auto register from the sink. " alt="" coords="240,35,427,76"/>
+<area shape="rect" id="node3" href="$classtlqd_1_1TLqdInstrument.html#a23f165c8f9378f90e15ef243733ec548" title="Close the connection to the quantumdata instrument. " alt="" coords="1255,85,1428,111"/>
+<area shape="rect" id="node5" href="$classtlqd_1_1TLqdInstrument.html#a204d3060d7ed6e05eee772324afd4896" title="Set new DisplayPort capability register(s) on the sink. " alt="" coords="475,111,693,152"/>
+<area shape="rect" id="node6" href="$classtlqd_1_1TLqdInstrument.html#a3737581b806c72550ecea75241ddddae" title="Read DisplayPort capability register(s) from the sink. " alt="" coords="767,136,934,177"/>
+<area shape="rect" id="node7" href="$classtlqd_1_1TLqdInstrument.html#af492f781abff7e089a8c13b9d10aba87" title="Get the current DisplayPort capability register(s) from the sink. " alt="" coords="741,201,960,243"/>
+</map>

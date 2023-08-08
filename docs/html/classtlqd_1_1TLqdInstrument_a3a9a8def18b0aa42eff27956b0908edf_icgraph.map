@@ -1,0 +1,8 @@
+<map id="tlqd.TLqdInstrument.runDp12SinkTest" name="tlqd.TLqdInstrument.runDp12SinkTest">
+<area shape="rect" id="node2" href="$classtlqd_1_1TLqdInstrument.html#a04eacd204f411d4a5e089fb3af8c6b8b" title="Execute DP 2.0 source compliance test. " alt="" coords="244,5,435,47"/>
+<area shape="rect" id="node3" href="$classtlqd_1_1TLqdInstrument.html#a4d1f391fac997519060c63523858e97c" title="Execute DP 2.0 sink compliance test. " alt="" coords="483,5,673,47"/>
+<area shape="rect" id="node4" href="$classtlqd_1_1TLqdInstrument.html#a6e0ad35734cc3c8c95211da0e6ae16ba" title="Execute DP Edid source compliance test. " alt="" coords="721,5,899,47"/>
+<area shape="rect" id="node5" href="$classtlqd_1_1TLqdInstrument.html#ac87735d1f7640a6fad7014d34be0d553" title="Execute DP Edid sink compliance test. " alt="" coords="947,5,1124,47"/>
+<area shape="rect" id="node6" href="$classtlqd_1_1TLqdInstrument.html#a45d79fcfa05cbfe6ec6973b30655f7c0" title="Get the current video format data being transmitted. " alt="" coords="1172,13,1373,39"/>
+<area shape="rect" id="node7" href="$classtlqd_1_1TLqdInstrument.html#a3243735f47ff9a25f8af98b051ac9bfb" title="Get the current 3D video format data being transmitted. " alt="" coords="1421,5,1596,47"/>
+</map>

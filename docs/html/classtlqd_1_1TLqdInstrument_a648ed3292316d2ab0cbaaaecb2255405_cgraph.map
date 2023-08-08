@@ -1,0 +1,9 @@
+<map id="tlqd.TLqdInstrument.getReceivedFormat" name="tlqd.TLqdInstrument.getReceivedFormat">
+<area shape="rect" id="node2" href="$classtlqd_1_1TLqdInstrument.html#a6c7f131db4d29f956a59d9fa88dadec5" title="Get a vendor specific infoframe. " alt="" coords="268,87,469,129"/>
+<area shape="rect" id="node3" href="$classtlqd_1_1TLqdInstrument.html#aefa0223ecb713c0826369d36570c7d3b" title="Get a dynamic range and mastering infoframe. " alt="" coords="517,57,703,98"/>
+<area shape="rect" id="node7" href="$classtlqd_1_1TLqdInstrument.html#a7d5419db76ad409d8549b2a6003da54f" title="Get a general control packet. " alt="" coords="518,125,702,152"/>
+<area shape="rect" id="node4" href="$classtlqd_1_1TLqdInstrument.html#a9c55b94a316f85ff518a6bc53e3f5cd4" title="Send a command to the quantumdata instrument. " alt="" coords="751,5,949,32"/>
+<area shape="rect" id="node6" href="$classtlqd_1_1TLqdInstrument.html#a454478993bbcac5cb79dbdc7a40f37dc" title="Get an audio infoframe. " alt="" coords="753,57,947,98"/>
+<area shape="rect" id="node5" href="$classtlqd_1_1TLqdInstrument.html#a23f165c8f9378f90e15ef243733ec548" title="Close the connection to the quantumdata instrument. " alt="" coords="997,5,1171,32"/>
+<area shape="rect" id="node8" href="$classtlqd_1_1TLqdInstrument.html#a4e2cc293f846964d92847a40d2175003" title="Get an AVI infoframe. " alt="" coords="761,122,939,163"/>
+</map>

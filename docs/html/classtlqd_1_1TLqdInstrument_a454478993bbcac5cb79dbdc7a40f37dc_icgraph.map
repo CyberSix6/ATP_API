@@ -1,0 +1,6 @@
+<map id="tlqd.TLqdInstrument.getAudioInfoframe" name="tlqd.TLqdInstrument.getAudioInfoframe">
+<area shape="rect" id="node2" href="$classtlqd_1_1TLqdInstrument.html#aefa0223ecb713c0826369d36570c7d3b" title="Get a dynamic range and mastering infoframe. " alt="" coords="247,5,432,47"/>
+<area shape="rect" id="node3" href="$classtlqd_1_1TLqdInstrument.html#a6c7f131db4d29f956a59d9fa88dadec5" title="Get a vendor specific infoframe. " alt="" coords="480,5,681,47"/>
+<area shape="rect" id="node4" href="$classtlqd_1_1TLqdInstrument.html#a648ed3292316d2ab0cbaaaecb2255405" title="Get the video format parameters being received. " alt="" coords="729,5,944,47"/>
+<area shape="rect" id="node5" href="$classtlqd_1_1TLqdInstrument.html#ac866d9b4e712a3b97a281d3c2b44a073" title="Is eARC supported? " alt="" coords="992,5,1171,47"/>
+</map>

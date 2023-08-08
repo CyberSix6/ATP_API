@@ -1,0 +1,6 @@
+<map id="tlqd.TLqdInstrument.setCapabilityRegisters" name="tlqd.TLqdInstrument.setCapabilityRegisters">
+<area shape="rect" id="node2" href="$classtlqd_1_1TLqdInstrument.html#a3737581b806c72550ecea75241ddddae" title="Read DisplayPort capability register(s) from the sink. " alt="" coords="298,5,465,47"/>
+<area shape="rect" id="node3" href="$classtlqd_1_1TLqdInstrument.html#a9c55b94a316f85ff518a6bc53e3f5cd4" title="Send a command to the quantumdata instrument. " alt="" coords="539,71,737,98"/>
+<area shape="rect" id="node5" href="$classtlqd_1_1TLqdInstrument.html#af492f781abff7e089a8c13b9d10aba87" title="Get the current DisplayPort capability register(s) from the sink. " alt="" coords="272,123,491,164"/>
+<area shape="rect" id="node4" href="$classtlqd_1_1TLqdInstrument.html#a23f165c8f9378f90e15ef243733ec548" title="Close the connection to the quantumdata instrument. " alt="" coords="785,71,959,98"/>
+</map>

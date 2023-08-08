@@ -1,0 +1,6 @@
+<map id="tlqd.TLqdGetAviInfoframe" name="tlqd.TLqdGetAviInfoframe">
+<area shape="rect" id="node2" href="$namespacetlqd.html#a34acbc74a5b7811f689cbf245a07ce37" title="Get the current scrambling mode. " alt="" coords="224,5,387,32"/>
+<area shape="rect" id="node3" href="$namespacetlqd.html#ab95eb26dab14e2094daa96d0e639d16e" title="Get the number of video image renditions. " alt="" coords="435,5,629,32"/>
+<area shape="rect" id="node4" href="$namespacetlqd.html#a51de06842385d10c40f612959a9f9db5" title="Get the list of video format images. " alt="" coords="677,5,817,32"/>
+<area shape="rect" id="node5" href="$namespacetlqd.html#a2a54a8ba8d443689546ad7f5d4b8f45a" title="Enable/Disable the Info frame packets. " alt="" coords="865,5,1039,32"/>
+</map>

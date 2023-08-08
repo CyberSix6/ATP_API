@@ -1,0 +1,39 @@
+<map id="tlqd.TLqdInstrument.isEarcSupported" name="tlqd.TLqdInstrument.isEarcSupported">
+<area shape="rect" id="node2" href="$classtlqd_1_1TLqdInstrument.html#a648ed3292316d2ab0cbaaaecb2255405" title="Get the video format parameters being received. " alt="" coords="239,71,453,112"/>
+<area shape="rect" id="node5" href="$classtlqd_1_1TLqdInstrument.html#a9c55b94a316f85ff518a6bc53e3f5cd4" title="Send a command to the quantumdata instrument. " alt="" coords="1025,137,1223,163"/>
+<area shape="rect" id="node6" href="$classtlqd_1_1TLqdInstrument.html#a23f165c8f9378f90e15ef243733ec548" title="Close the connection to the quantumdata instrument. " alt="" coords="1285,187,1459,214"/>
+<area shape="rect" id="node10" href="$classtlqd_1_1TLqdInstrument.html#a0223d81952a00a251dc55451138b99c2" title="Evaluate incoming audio. " alt="" coords="264,239,428,280"/>
+<area shape="rect" id="node11" href="$classtlqd_1_1TLqdInstrument.html#ad9c404ee74d022fe2977ad7e1f2d3301" title="Is ARC supported? " alt="" coords="260,304,432,345"/>
+<area shape="rect" id="node12" href="$classtlqd_1_1TLqdInstrument.html#ab53c9a70c3a25eadc8c98e0f4e6ca2d8" title="Transfer an EDID file to the quantumdata instrument. " alt="" coords="523,363,694,404"/>
+<area shape="rect" id="node13" href="$classtlqd_1_1TLqdInstrument.html#a6d659a4c61eb85c590e00efb21a42c9e" title="Save EDID data to a file, transfer it to the quantumdata instrument. " alt="" coords="261,421,431,463"/>
+<area shape="rect" id="node15" href="$classtlqd_1_1TLqdInstrument.html#ad21760e12541fd5c2097ebfe33c5afee" title="Transfer a CDF file to the quantumdata instrument. " alt="" coords="261,487,431,528"/>
+<area shape="rect" id="node16" href="$classtlqd_1_1TLqdInstrument.html#adc92b7062cf09b45a244a906f1102ee8" title="Get a file from the quantumdata instrument via FTP. " alt="" coords="255,553,437,579"/>
+<area shape="rect" id="node17" href="$classtlqd_1_1TLqdInstrument.html#a340baf83eda61725236263ca0175c6a6" title="Remove a file from the quantumdata instrument via FTP. " alt="" coords="247,603,445,630"/>
+<area shape="rect" id="node18" href="$namespaceDpSourceTests.html#a63ee30cfa3b476131e1e649e89a9179f" title="DpSourceTests.callback" alt="" coords="263,654,429,681"/>
+<area shape="rect" id="node24" href="$namespaceGamingSourceTests.html#a8402221eec4dc06a66cba33c3ea2c050" title="Perform Source Setup. " alt="" coords="232,735,460,762"/>
+<area shape="rect" id="node3" href="$classtlqd_1_1TLqdInstrument.html#a6c7f131db4d29f956a59d9fa88dadec5" title="Get a vendor specific infoframe. " alt="" coords="508,71,709,112"/>
+<area shape="rect" id="node4" href="$classtlqd_1_1TLqdInstrument.html#aefa0223ecb713c0826369d36570c7d3b" title="Get a dynamic range and mastering infoframe. " alt="" coords="767,71,953,112"/>
+<area shape="rect" id="node8" href="$classtlqd_1_1TLqdInstrument.html#a7d5419db76ad409d8549b2a6003da54f" title="Get a general control packet. " alt="" coords="768,15,952,42"/>
+<area shape="rect" id="node7" href="$classtlqd_1_1TLqdInstrument.html#a454478993bbcac5cb79dbdc7a40f37dc" title="Get an audio infoframe. " alt="" coords="1027,71,1221,112"/>
+<area shape="rect" id="node9" href="$classtlqd_1_1TLqdInstrument.html#a4e2cc293f846964d92847a40d2175003" title="Get an AVI infoframe. " alt="" coords="1035,5,1213,47"/>
+<area shape="rect" id="node14" href="$classtlqd_1_1TLqdInstrument.html#a7fa3a7d9012ecefdc742985dc35cbe5a" title="Put a file on the quantumdata instrument via FTP. " alt="" coords="518,479,699,506"/>
+<area shape="rect" id="node19" href="$namespacetlqd.html#a1a2dd853cc3fdfe293ac0063ebfc9be4" title="Execute DP 1.4 source compliance test. " alt="" coords="523,629,694,655"/>
+<area shape="rect" id="node22" href="$namespaceDpSourceTests.html#a76d0d8517b2388f1473230e586ff3862" title="Display test results. " alt="" coords="512,679,705,706"/>
+<area shape="rect" id="node23" href="$namespacetlqd.html#a3fec0cda35a3d4cb8266afaaf84914a8" title="Execute HDCP 2.x compliance test. " alt="" coords="537,578,680,605"/>
+<area shape="rect" id="node20" href="$namespacetlqd.html#a6c58073e8b270697e1c02b7237aceffc" title="Set LTTPR emulation. " alt="" coords="801,601,919,627"/>
+<area shape="rect" id="node21" href="$namespacetlqd.html#ac77330a9d22195507800f05c1cac947b" title="Set DSC paramters. " alt="" coords="1064,601,1184,627"/>
+<area shape="rect" id="node25" href="$namespaceGamingSourceTests.html#ae5764e6ef3733a5d2bb5b376fd8b6bfb" title="Set a Image, Format and Image parameters. " alt="" coords="509,785,708,827"/>
+<area shape="rect" id="node26" href="$namespacetlqd.html#afd3b652becffbb23bc14b8a892be03b9" title="Set link training. " alt="" coords="777,971,943,998"/>
+<area shape="rect" id="node27" href="$namespacetlqd.html#a9e73387c1ca6e1a1be44524a36c26c70" title="Set a video image. " alt="" coords="794,651,926,678"/>
+<area shape="rect" id="node30" href="$namespacetlqd.html#a2e31c034c14b1b711bbd1b5b2615cccd" title="Set a video format. " alt="" coords="791,702,929,729"/>
+<area shape="rect" id="node34" href="$namespaceGamingSourceTests.html#a2c78263cc27acffda8a63f5c51faf4d7" title="Get ColorSpace. " alt="" coords="763,753,957,795"/>
+<area shape="rect" id="node35" href="$namespacetlqd.html#a0b4debd1edc16c5c702b540609e0529a" title="Get the current video format data parameters. " alt="" coords="757,819,963,846"/>
+<area shape="rect" id="node36" href="$namespacetlqd.html#a77c39ebee9636b0d6a283ae378fc839f" title="Set a video image parameter value. " alt="" coords="764,870,956,897"/>
+<area shape="rect" id="node38" href="$namespacetlqd.html#abb3bde92bd7e91ceb13ca0e3b09f33ef" title="Update a video image. " alt="" coords="783,921,937,947"/>
+<area shape="rect" id="node28" href="$namespacetlqd.html#abd599bea532386a33855e54b8ca43c9d" title="Update video format parameters. " alt="" coords="1011,651,1237,678"/>
+<area shape="rect" id="node29" href="$namespacetlqd.html#a332d9b8f13329bff4f58ed3b8a4f5787" title="Set HDCP. " alt="" coords="1311,651,1433,678"/>
+<area shape="rect" id="node31" href="$namespacetlqd.html#a4b69e992de53f288ae4bd4d17e0c6db8" title="Obtain version data about the quantumdata instrument. " alt="" coords="1064,702,1184,729"/>
+<area shape="rect" id="node33" href="$namespacetlqd.html#a33a3c61010f68c82b4286288e35a12e8" title="Obtain data about what is installed on the quantumdata instrument. " alt="" coords="1060,753,1188,779"/>
+<area shape="rect" id="node32" href="$namespacetlqd.html#a592fd46aec54c1659b08bc45b3cb790e" title="Connect to a quantumdata instrument via telnet. " alt="" coords="1291,702,1453,729"/>
+<area shape="rect" id="node37" href="$namespacetlqd.html#a874f088a39398bce71af6f6a26217da3" title="Get the Info Frame Packet data(ISRC1, ISRC2 and ACP) " alt="" coords="1032,870,1216,897"/>
+</map>

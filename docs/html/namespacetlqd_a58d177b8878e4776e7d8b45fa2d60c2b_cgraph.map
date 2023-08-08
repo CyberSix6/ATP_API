@@ -1,0 +1,33 @@
+<map id="tlqd.TLqdHF1_17" name="tlqd.TLqdHF1_17">
+<area shape="rect" id="node2" href="$namespacetlqd.html#a3957e681f098a34b75de1cc397f112e6" title="Run an iteration of HDMI source test HF1&#45;14. " alt="" coords="176,33,299,60"/>
+<area shape="rect" id="node27" href="$namespacetlqd.html#ac573d81ccca082b4b122532a75a29497" title="Run an iteration of HDMI source test HF1&#45;15. " alt="" coords="176,84,299,111"/>
+<area shape="rect" id="node3" href="$namespacetlqd.html#a057711d14430522d3e0f63a9ba90b11d" title="Run an iteration of HDMI source test HF1&#45;11. " alt="" coords="347,33,469,60"/>
+<area shape="rect" id="node4" href="$namespacetlqd.html#a7b072c291200b257bbc78e28c2a19170" title="Run HDMI 1.4 source test 7&#45;39. " alt="" coords="517,33,621,60"/>
+<area shape="rect" id="node5" href="$namespacetlqd.html#a5e1b33e70dba6e853bd3f48a8fb7aace" title="Run HDMI 1.4 source test 7&#45;36. " alt="" coords="669,33,773,60"/>
+<area shape="rect" id="node6" href="$namespacetlqd.html#a3ec4e585497b2bb120d76f7a32c213c6" title="Run HDMI 1.4 source test 7&#45;33a. " alt="" coords="821,33,932,60"/>
+<area shape="rect" id="node7" href="$namespacetlqd.html#a4f59f9e13b66c2fb9c0a80b0b040a83d" title="Run HDMI 1.4 source test 7&#45;31. " alt="" coords="980,33,1084,60"/>
+<area shape="rect" id="node8" href="$namespacetlqd.html#abd83b84f917871d5b6f5d0e7735a6767" title="Run HDMI 1.4 source test 7&#45;29. " alt="" coords="1132,33,1236,60"/>
+<area shape="rect" id="node9" href="$namespacetlqd.html#a8d2d52635c852cbb608887ce87181802" title="Run HDMI 1.4 source test 7&#45;26. " alt="" coords="1284,8,1388,35"/>
+<area shape="rect" id="node18" href="$namespacetlqd.html#aa83f7b2ec4c8cb97dd65b6d688e67c1e" title="Run HDMI 1.4 source test 7&#45;27. " alt="" coords="1284,59,1388,85"/>
+<area shape="rect" id="node10" href="$namespacetlqd.html#acb21579a70bf4521bcc371795db9c688" title="Run HDMI 1.4 source test 7&#45;23. " alt="" coords="1436,8,1540,35"/>
+<area shape="rect" id="node11" href="$namespacetlqd.html#a6548b515431f37be851ca2689ca4045c" title="Run HDMI 1.4 source test 7&#45;17. " alt="" coords="1588,8,1692,35"/>
+<area shape="rect" id="node12" href="$namespacetlqd.html#ac1b66a99ed5ff9f792e9e67ac018c99a" title="Is ARC audio supported? " alt="" coords="1743,8,1910,35"/>
+<area shape="rect" id="node13" href="$namespacetlqd.html#a14540eca539b630c7ccb0b31abc04bdd" title="Get a general control packet. " alt="" coords="1993,5,2115,32"/>
+<area shape="rect" id="node14" href="$namespacetlqd.html#ab78c5115c6ca2e1e163475d53e622ef7" title="Get one pixel. " alt="" coords="2224,5,2351,32"/>
+<area shape="rect" id="node15" href="$namespacetlqd.html#a0ea2be10f012dcf9f04510a758315250" title="Set the video image rendition. " alt="" coords="2428,5,2615,32"/>
+<area shape="rect" id="node16" href="$namespacetlqd.html#a0220c5c1de89f5f9e4e971aeae3e54b8" title="Get the video image parameter value. " alt="" coords="2663,5,2856,32"/>
+<area shape="rect" id="node17" href="$namespacetlqd.html#ace3dac2f0c6affd4be59ebe36343bcf6" title="Set the the Info Frame Packet data(ISRC1, ISRC2 and ACP) " alt="" coords="2922,5,3070,32"/>
+<area shape="rect" id="node19" href="$namespacetlqd.html#a38e7d0d8a59d0ffa60f7efb5aa418e5d" title="Run HDMI 1.4 source test 7&#45;24. " alt="" coords="1436,59,1540,85"/>
+<area shape="rect" id="node20" href="$namespacetlqd.html#a2c20ad4d0d87ee9d29fa25f9a1be8549" title="Run HDMI 1.4 source test 7&#45;18. " alt="" coords="1588,59,1692,85"/>
+<area shape="rect" id="node21" href="$namespacetlqd.html#aafb781ecb956b9aab7c8be9067616ede" title="Is eARC audio supported? " alt="" coords="1740,63,1913,89"/>
+<area shape="rect" id="node22" href="$namespacetlqd.html#a7ef2066c9029380ada7150a7306fda10" title="Get a vendor specific infoframe. " alt="" coords="1961,57,2147,98"/>
+<area shape="rect" id="node23" href="$namespacetlqd.html#aa232bee54630efbc3a66529ba0414ad8" title="Get an audio infoframe. " alt="" coords="2195,64,2380,91"/>
+<area shape="rect" id="node24" href="$namespacetlqd.html#a9598e3598fd19de63205146e2cac5f7c" title="Set scrambling mode. " alt="" coords="2441,64,2602,91"/>
+<area shape="rect" id="node25" href="$namespacetlqd.html#a77c39ebee9636b0d6a283ae378fc839f" title="Set a video image parameter value. " alt="" coords="2663,64,2855,91"/>
+<area shape="rect" id="node26" href="$namespacetlqd.html#a874f088a39398bce71af6f6a26217da3" title="Get the Info Frame Packet data(ISRC1, ISRC2 and ACP) " alt="" coords="2904,64,3088,91"/>
+<area shape="rect" id="node28" href="$namespacetlqd.html#a25de485540b45ae5af8c6347b9fc1910" title="Run an iteration of HDMI source test HF1&#45;12. " alt="" coords="347,84,469,111"/>
+<area shape="rect" id="node29" href="$namespacetlqd.html#a6e726344c88327482a99fc6078357e4c" title="Run HDMI 1.4 source test 7&#45;40. " alt="" coords="517,84,621,111"/>
+<area shape="rect" id="node30" href="$namespacetlqd.html#a2561f34693d150550ec9ece332bcbf26" title="Run HDMI 1.4 source test 7&#45;37. " alt="" coords="669,84,773,111"/>
+<area shape="rect" id="node31" href="$namespacetlqd.html#acf962b871f611ff1fdd25c956241b0a1" title="Run HDMI 1.4 source test 7&#45;34. " alt="" coords="825,84,929,111"/>
+<area shape="rect" id="node32" href="$namespacetlqd.html#a5aeceb86dba087ee2832860a38f21341" title="Run HDMI 1.4 source test 7&#45;32. " alt="" coords="980,84,1084,111"/>
+</map>

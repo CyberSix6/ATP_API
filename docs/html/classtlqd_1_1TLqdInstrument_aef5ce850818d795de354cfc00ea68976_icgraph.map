@@ -1,0 +1,6 @@
+<map id="tlqd.TLqdInstrument.getRxLinkTrainingStatus" name="tlqd.TLqdInstrument.getRxLinkTrainingStatus">
+<area shape="rect" id="node2" href="$classtlqd_1_1TLqdInstrument.html#aba58612ede52214c13d9d682b2f3b202" title="Get Error info. " alt="" coords="231,29,441,56"/>
+<area shape="rect" id="node3" href="$classtlqd_1_1TLqdInstrument.html#a570545b809342561eb9c389569c1c0c6" title="Get Tx link training status. " alt="" coords="489,22,664,63"/>
+<area shape="rect" id="node4" href="$classtlqd_1_1TLqdInstrument.html#a29f3acab95689a5d6fd61be7fa2e3ee2" title="Get an integer value . " alt="" coords="712,29,905,56"/>
+<area shape="rect" id="node5" href="$classtlqd_1_1TLqdInstrument.html#a1eff4e9cef9327093e2243ceb242eb9b" title="Get Sink status. " alt="" coords="953,22,1140,63"/>
+</map>

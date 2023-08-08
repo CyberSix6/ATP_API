@@ -1,0 +1,7 @@
+<map id="tlqd.TLqdInstrument.getValue" name="tlqd.TLqdInstrument.getValue">
+<area shape="rect" id="node2" href="$classtlqd_1_1TLqdInstrument.html#a570545b809342561eb9c389569c1c0c6" title="Get Tx link training status. " alt="" coords="247,52,421,93"/>
+<area shape="rect" id="node5" href="$classtlqd_1_1TLqdInstrument.html#a9c55b94a316f85ff518a6bc53e3f5cd4" title="Send a command to the quantumdata instrument. " alt="" coords="728,71,927,98"/>
+<area shape="rect" id="node3" href="$classtlqd_1_1TLqdInstrument.html#aba58612ede52214c13d9d682b2f3b202" title="Get Error info. " alt="" coords="469,17,680,43"/>
+<area shape="rect" id="node4" href="$classtlqd_1_1TLqdInstrument.html#aef5ce850818d795de354cfc00ea68976" title="Get Rx link training status. " alt="" coords="739,5,916,47"/>
+<area shape="rect" id="node6" href="$classtlqd_1_1TLqdInstrument.html#a23f165c8f9378f90e15ef243733ec548" title="Close the connection to the quantumdata instrument. " alt="" coords="975,71,1148,98"/>
+</map>

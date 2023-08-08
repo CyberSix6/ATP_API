@@ -1,0 +1,51 @@
+<map id="tlqd.TLqSetInfoFrame" name="tlqd.TLqSetInfoFrame">
+<area shape="rect" id="node2" href="$namespacetlqd.html#a0220c5c1de89f5f9e4e971aeae3e54b8" title="Get the video image parameter value. " alt="" coords="201,31,395,57"/>
+<area shape="rect" id="node3" href="$namespacetlqd.html#a0ea2be10f012dcf9f04510a758315250" title="Set the video image rendition. " alt="" coords="443,31,629,57"/>
+<area shape="rect" id="node4" href="$namespacetlqd.html#ab78c5115c6ca2e1e163475d53e622ef7" title="Get one pixel. " alt="" coords="677,31,804,57"/>
+<area shape="rect" id="node5" href="$namespacetlqd.html#a14540eca539b630c7ccb0b31abc04bdd" title="Get a general control packet. " alt="" coords="852,31,973,57"/>
+<area shape="rect" id="node6" href="$namespacetlqd.html#ac1b66a99ed5ff9f792e9e67ac018c99a" title="Is ARC audio supported? " alt="" coords="1021,31,1188,57"/>
+<area shape="rect" id="node7" href="$namespaceHdmiSinkAudio.html#a6f7e7346fda4ca6e5044ca0cc0f6c7a2" title="HdmiSinkAudio.showAudio" alt="" coords="1236,5,1416,32"/>
+<area shape="rect" id="node8" href="$namespacetlqd.html#a6548b515431f37be851ca2689ca4045c" title="Run HDMI 1.4 source test 7&#45;17. " alt="" coords="1274,56,1378,83"/>
+<area shape="rect" id="node9" href="$namespacetlqd.html#acb21579a70bf4521bcc371795db9c688" title="Run HDMI 1.4 source test 7&#45;23. " alt="" coords="1464,56,1568,83"/>
+<area shape="rect" id="node10" href="$namespacetlqd.html#a8d2d52635c852cbb608887ce87181802" title="Run HDMI 1.4 source test 7&#45;26. " alt="" coords="1616,56,1720,83"/>
+<area shape="rect" id="node11" href="$namespacetlqd.html#abd83b84f917871d5b6f5d0e7735a6767" title="Run HDMI 1.4 source test 7&#45;29. " alt="" coords="1768,56,1872,83"/>
+<area shape="rect" id="node12" href="$namespacetlqd.html#a4f59f9e13b66c2fb9c0a80b0b040a83d" title="Run HDMI 1.4 source test 7&#45;31. " alt="" coords="1920,56,2024,83"/>
+<area shape="rect" id="node13" href="$namespacetlqd.html#a3ec4e585497b2bb120d76f7a32c213c6" title="Run HDMI 1.4 source test 7&#45;33a. " alt="" coords="2072,56,2183,83"/>
+<area shape="rect" id="node14" href="$namespacetlqd.html#a5e1b33e70dba6e853bd3f48a8fb7aace" title="Run HDMI 1.4 source test 7&#45;36. " alt="" coords="2231,56,2335,83"/>
+<area shape="rect" id="node15" href="$namespacetlqd.html#a7b072c291200b257bbc78e28c2a19170" title="Run HDMI 1.4 source test 7&#45;39. " alt="" coords="2383,56,2487,83"/>
+<area shape="rect" id="node16" href="$namespacetlqd.html#a057711d14430522d3e0f63a9ba90b11d" title="Run an iteration of HDMI source test HF1&#45;11. " alt="" coords="2535,56,2657,83"/>
+<area shape="rect" id="node17" href="$namespacetlqd.html#a3957e681f098a34b75de1cc397f112e6" title="Run an iteration of HDMI source test HF1&#45;14. " alt="" coords="2705,56,2828,83"/>
+<area shape="rect" id="node18" href="$namespacetlqd.html#a58d177b8878e4776e7d8b45fa2d60c2b" title="Run an iteration of HDMI source test HF1&#45;17. " alt="" coords="2876,56,2999,83"/>
+<area shape="rect" id="node19" href="$namespacetlqd.html#a06f9931f3f242104158f5118661fcc04" title="Run an iteration of HDMI source test HF1&#45;21. " alt="" coords="3047,56,3169,83"/>
+<area shape="rect" id="node20" href="$namespacetlqd.html#a99defb693875510ef650cf89fecd8b73" title="Run an iteration of HDMI source test HF1&#45;24. " alt="" coords="3217,56,3340,83"/>
+<area shape="rect" id="node21" href="$namespacetlqd.html#abe9947dc4ae236aee42aa7542a22bc88" title="Run an iteration of HDMI source test HF1&#45;27. " alt="" coords="3388,56,3511,83"/>
+<area shape="rect" id="node22" href="$namespacetlqd.html#af5bdb2ba9df514c27679ee91f08f9cb6" title="Run an iteration of HDMI source test HF1&#45;29. " alt="" coords="3559,56,3681,83"/>
+<area shape="rect" id="node23" href="$namespacetlqd.html#a554a0ee73fe3094e5717486a707df0c7" title="Run an iteration of HDMI source test HF1&#45;31. " alt="" coords="3729,56,3852,83"/>
+<area shape="rect" id="node24" href="$namespacetlqd.html#abfa256fc51e8901985c6eed3c3151318" title="Run an iteration of HDMI source test HF1&#45;32. " alt="" coords="3900,56,4023,83"/>
+<area shape="rect" id="node25" href="$namespacetlqd.html#adc6491921c530206d42e62273fec1687" title="Run an iteration of HDMI source test HF1&#45;34. " alt="" coords="4071,56,4193,83"/>
+<area shape="rect" id="node26" href="$namespacetlqd.html#a3712d3aadd60b2e9a8c565fab113ca0d" title="Run HDMI source test HF1&#45;41. " alt="" coords="4241,56,4364,83"/>
+<area shape="rect" id="node27" href="$namespacetlqd.html#ae1e635b09c96f6349096015303eb2d9a" title="Run HDMI source test HF1&#45;44. " alt="" coords="4412,56,4535,83"/>
+<area shape="rect" id="node28" href="$namespacetlqd.html#aef7c7b5ea3377a2e5167b8ce6d295334" title="Run an iteration of HDMI source test HF1&#45;49. " alt="" coords="4583,56,4705,83"/>
+<area shape="rect" id="node29" href="$namespacetlqd.html#a6600fc809e5437b3df7d484d26bb0da4" title="Run an iteration of HDMI source test HF1&#45;53. " alt="" coords="4753,56,4876,83"/>
+<area shape="rect" id="node30" href="$namespacetlqd.html#ac5d23702375a6f373c1d2dd872a68b6b" title="Run an iteration of HDMI source test HF1&#45;58. " alt="" coords="4924,56,5047,83"/>
+<area shape="rect" id="node31" href="$namespacetlqd.html#a30f53c680c340a0250a965e754ae1035" title="Run an iteration of HDMI source test HF1&#45;66. " alt="" coords="5095,56,5217,83"/>
+<area shape="rect" id="node32" href="$namespacetlqd.html#a516db851efe896c917fa43abb89e5edd" title="Run an iteration of HDMI source test HF1&#45;72. " alt="" coords="5265,56,5388,83"/>
+<area shape="rect" id="node33" href="$namespacetlqd.html#ae494b5c4ed95795f931e508e19461cd6" title="Run FRL source test HFR1&#45;10. " alt="" coords="5436,56,5568,83"/>
+<area shape="rect" id="node34" href="$namespacetlqd.html#ac846b377028167c15d2e7d0e4405578b" title="Run FRL source test HFR1&#45;13. " alt="" coords="5616,56,5748,83"/>
+<area shape="rect" id="node35" href="$namespacetlqd.html#af67582ac6af526d7bb7be5981868ec8b" title="Run FRL source test HFR1&#45;16. " alt="" coords="5796,56,5928,83"/>
+<area shape="rect" id="node36" href="$namespacetlqd.html#ae75c87ce75f285f24120ec24faf69530" title="Run FRL source test HFR1&#45;18. " alt="" coords="5976,56,6108,83"/>
+<area shape="rect" id="node37" href="$namespacetlqd.html#af04302703db6263e5c14c74dbb96f8f6" title="Run FRL source test HFR1&#45;21. " alt="" coords="6156,56,6288,83"/>
+<area shape="rect" id="node38" href="$namespacetlqd.html#a7e5313deb5e9ccb43a3c0e077b2c66cb" title="Run FRL source test HFR1&#45;24. " alt="" coords="6336,56,6468,83"/>
+<area shape="rect" id="node39" href="$namespacetlqd.html#aea0a68e8b4b4fdacc7550c0b565ace54" title="Run FRL source test HFR1&#45;26. " alt="" coords="6516,56,6648,83"/>
+<area shape="rect" id="node40" href="$namespacetlqd.html#a2ae81bed60e99c2acac7e0a81e46a1cc" title="Run FRL source test HFR1&#45;28. " alt="" coords="6696,56,6828,83"/>
+<area shape="rect" id="node41" href="$namespacetlqd.html#a2a63b11c94c0f98d4a25983688d973de" title="Run FRL source test HFR1&#45;30. " alt="" coords="6876,56,7008,83"/>
+<area shape="rect" id="node42" href="$namespacetlqd.html#a90769a8c7ecdc0566768a6af7fc9fe52" title="Run FRL source test HFR1&#45;32. " alt="" coords="7056,56,7188,83"/>
+<area shape="rect" id="node43" href="$namespacetlqd.html#a23d4dbf111784a1eba2f57b7aac68652" title="Run FRL source test HFR1&#45;34. " alt="" coords="7236,56,7368,83"/>
+<area shape="rect" id="node44" href="$namespacetlqd.html#a0ec59c1ac5d2e5cdbadc439c58fca5b4" title="Run FRL source test HFR1&#45;37. " alt="" coords="7416,56,7548,83"/>
+<area shape="rect" id="node45" href="$namespacetlqd.html#a0b83358c49d31d9413e8d7e486efe853" title="Run FRL source test HFR1&#45;40. " alt="" coords="7596,56,7728,83"/>
+<area shape="rect" id="node46" href="$namespacetlqd.html#a4fd69f1ea113f0608925e5c23dd4e7de" title="Run FRL source test HFR1&#45;45. " alt="" coords="7776,56,7908,83"/>
+<area shape="rect" id="node47" href="$namespacetlqd.html#a623e29a6f056efa2092bcd968ea8ed9c" title="Run FRL source test HFR1&#45;51. " alt="" coords="7956,56,8088,83"/>
+<area shape="rect" id="node48" href="$namespacetlqd.html#a1cb9140ff2d69fc8291731bee80d6d8b" title="Run FRL source test HFR1&#45;58. " alt="" coords="8136,56,8268,83"/>
+<area shape="rect" id="node49" href="$namespacetlqd.html#a3fd6602bb8e7e06812cdcae56bccc0b2" title="Run FRL source test HFR1&#45;68. " alt="" coords="8316,56,8448,83"/>
+<area shape="rect" id="node50" href="$namespacetlqd.html#a24630282f0761a279d2cb34271cf6835" title="Run FRL source test HFR1&#45;80. " alt="" coords="8496,56,8628,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="tlqd.TLqdInstrument.setCardUsed" name="tlqd.TLqdInstrument.setCardUsed">
+<area shape="rect" id="node2" href="$classtlqd_1_1TLqdInstrument.html#ab5a42374a3ddefd11be9346785426f51" title="Obtain data about what is licensed on the quantumdata instrument. " alt="" coords="272,5,484,32"/>
+<area shape="rect" id="node4" href="$classtlqd_1_1TLqdInstrument.html#a9c55b94a316f85ff518a6bc53e3f5cd4" title="Send a command to the quantumdata instrument. " alt="" coords="539,56,737,83"/>
+<area shape="rect" id="node3" href="$classtlqd_1_1TLqdInstrument.html#a60910ebd9c8245b12e52a9581a9bcf6d" title="Obtain data about what is installed on the quantumdata instrument. " alt="" coords="532,5,744,32"/>
+<area shape="rect" id="node5" href="$classtlqd_1_1TLqdInstrument.html#a23f165c8f9378f90e15ef243733ec548" title="Close the connection to the quantumdata instrument. " alt="" coords="792,56,965,83"/>
+</map>

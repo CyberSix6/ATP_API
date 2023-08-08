@@ -1,0 +1,6 @@
+<map id="tlqd.TLqd3dOption.__init__" name="tlqd.TLqd3dOption.__init__">
+<area shape="rect" id="node2" href="$namespacetlqd.html#a96acb123413bdd8a8a7e5dc4901d6d1b" title="Enable/disable output. " alt="" coords="185,13,340,39"/>
+<area shape="rect" id="node3" href="$namespacetlqd.html#ae1f05ab278646f661213520cd9e3d2f4" title="Get the eARC compressed audio format in use. " alt="" coords="388,5,587,47"/>
+<area shape="rect" id="node4" href="$namespacetlqd.html#ac1117cee0f5209f01fbbd61d14dc944a" title="Set eARC audio LPCM. " alt="" coords="635,13,791,39"/>
+<area shape="rect" id="node5" href="$namespacetlqd.html#a0940bad557d364612d2f69883b1949cf" title="Get audio LPCM. " alt="" coords="839,13,969,39"/>
+</map>

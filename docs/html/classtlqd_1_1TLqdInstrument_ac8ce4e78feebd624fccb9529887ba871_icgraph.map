@@ -1,0 +1,6 @@
+<map id="tlqd.TLqdInstrument.setCompressedAudio" name="tlqd.TLqdInstrument.setCompressedAudio">
+<area shape="rect" id="node2" href="$classtlqd_1_1TLqdInstrument.html#a4198ad9a07536989eaeb21f1a931cc06" title="Get the eARC audio LPCM metrics in use. " alt="" coords="288,5,475,47"/>
+<area shape="rect" id="node3" href="$classtlqd_1_1TLqdInstrument.html#ae28b85d43059b27ae80df29784260d96" title="Get the eARC compressed audio format in use. " alt="" coords="523,5,709,47"/>
+<area shape="rect" id="node4" href="$classtlqd_1_1TLqdInstrument.html#a0af9a9fc520e5d96d958bcf63df39c92" title="Set the EDID data on the device. " alt="" coords="757,13,972,39"/>
+<area shape="rect" id="node5" href="$classtlqd_1_1TLqdInstrument.html#a989c0255976d34201b615819d6a51113" title="Write the given value to the I2C register. " alt="" coords="1020,13,1189,39"/>
+</map>

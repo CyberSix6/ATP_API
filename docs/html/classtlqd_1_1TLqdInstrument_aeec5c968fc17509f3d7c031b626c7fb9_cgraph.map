@@ -1,0 +1,8 @@
+<map id="tlqd.TLqdInstrument.getPixel" name="tlqd.TLqdInstrument.getPixel">
+<area shape="rect" id="node2" href="$classtlqd_1_1TLqdInstrument.html#a75b9d95268c2dc3319ffe1168f6be972" title="Get a frame of video. " alt="" coords="245,57,439,98"/>
+<area shape="rect" id="node5" href="$classtlqd_1_1TLqdInstrument.html#a9c55b94a316f85ff518a6bc53e3f5cd4" title="Send a command to the quantumdata instrument. " alt="" coords="243,123,441,149"/>
+<area shape="rect" id="node7" href="$classtlqd_1_1TLqdInstrument.html#adc92b7062cf09b45a244a906f1102ee8" title="Get a file from the quantumdata instrument via FTP. " alt="" coords="251,173,433,200"/>
+<area shape="rect" id="node3" href="$classtlqd_1_1TLqdInstrument.html#a7fa3a7d9012ecefdc742985dc35cbe5a" title="Put a file on the quantumdata instrument via FTP. " alt="" coords="489,5,671,32"/>
+<area shape="rect" id="node4" href="$classtlqd_1_1TLqdInstrument.html#ad21760e12541fd5c2097ebfe33c5afee" title="Transfer a CDF file to the quantumdata instrument. " alt="" coords="495,57,665,98"/>
+<area shape="rect" id="node6" href="$classtlqd_1_1TLqdInstrument.html#a23f165c8f9378f90e15ef243733ec548" title="Close the connection to the quantumdata instrument. " alt="" coords="493,123,667,149"/>
+</map>

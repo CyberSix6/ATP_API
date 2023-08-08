@@ -1,0 +1,5 @@
+<map id="tlqd.TLqdInstrument.getEarcAudio" name="tlqd.TLqdInstrument.getEarcAudio">
+<area shape="rect" id="node2" href="$classtlqd_1_1TLqdInstrument.html#ae28b85d43059b27ae80df29784260d96" title="Get the eARC compressed audio format in use. " alt="" coords="240,5,427,47"/>
+<area shape="rect" id="node3" href="$classtlqd_1_1TLqdInstrument.html#a0af9a9fc520e5d96d958bcf63df39c92" title="Set the EDID data on the device. " alt="" coords="475,13,689,39"/>
+<area shape="rect" id="node4" href="$classtlqd_1_1TLqdInstrument.html#a989c0255976d34201b615819d6a51113" title="Write the given value to the I2C register. " alt="" coords="737,13,907,39"/>
+</map>

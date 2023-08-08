@@ -1,0 +1,15 @@
+<map id="GamingSourceTests.setImageAndFormat" name="GamingSourceTests.setImageAndFormat">
+<area shape="rect" id="node2" href="$namespacetlqd.html#afd3b652becffbb23bc14b8a892be03b9" title="Set link training. " alt="" coords="271,5,438,32"/>
+<area shape="rect" id="node3" href="$namespacetlqd.html#a9e73387c1ca6e1a1be44524a36c26c70" title="Set a video image. " alt="" coords="289,56,421,83"/>
+<area shape="rect" id="node6" href="$namespacetlqd.html#a2e31c034c14b1b711bbd1b5b2615cccd" title="Set a video format. " alt="" coords="286,107,423,133"/>
+<area shape="rect" id="node10" href="$namespaceGamingSourceTests.html#a2c78263cc27acffda8a63f5c51faf4d7" title="Get ColorSpace. " alt="" coords="257,158,452,199"/>
+<area shape="rect" id="node11" href="$namespacetlqd.html#a0b4debd1edc16c5c702b540609e0529a" title="Get the current video format data parameters. " alt="" coords="252,224,457,251"/>
+<area shape="rect" id="node12" href="$namespacetlqd.html#a77c39ebee9636b0d6a283ae378fc839f" title="Set a video image parameter value. " alt="" coords="259,275,451,301"/>
+<area shape="rect" id="node14" href="$namespacetlqd.html#abb3bde92bd7e91ceb13ca0e3b09f33ef" title="Update a video image. " alt="" coords="277,325,432,352"/>
+<area shape="rect" id="node4" href="$namespacetlqd.html#abd599bea532386a33855e54b8ca43c9d" title="Update video format parameters. " alt="" coords="505,56,732,83"/>
+<area shape="rect" id="node5" href="$namespacetlqd.html#a332d9b8f13329bff4f58ed3b8a4f5787" title="Set HDCP. " alt="" coords="799,56,922,83"/>
+<area shape="rect" id="node7" href="$namespacetlqd.html#a4b69e992de53f288ae4bd4d17e0c6db8" title="Obtain version data about the quantumdata instrument. " alt="" coords="559,107,679,133"/>
+<area shape="rect" id="node9" href="$namespacetlqd.html#a33a3c61010f68c82b4286288e35a12e8" title="Obtain data about what is installed on the quantumdata instrument. " alt="" coords="555,157,683,184"/>
+<area shape="rect" id="node8" href="$namespacetlqd.html#a592fd46aec54c1659b08bc45b3cb790e" title="Connect to a quantumdata instrument via telnet. " alt="" coords="780,107,941,133"/>
+<area shape="rect" id="node13" href="$namespacetlqd.html#a874f088a39398bce71af6f6a26217da3" title="Get the Info Frame Packet data(ISRC1, ISRC2 and ACP) " alt="" coords="527,275,711,301"/>
+</map>

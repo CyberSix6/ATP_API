@@ -1,0 +1,5 @@
+<map id="tlqd.TLqdInstrument.listEarcCompressedAudio" name="tlqd.TLqdInstrument.listEarcCompressedAudio">
+<area shape="rect" id="node2" href="$classtlqd_1_1TLqdInstrument.html#a746bb817e2268dfdeffbf1b50a47ec27" title="Get the eARC audio being received. " alt="" coords="212,5,427,47"/>
+<area shape="rect" id="node3" href="$classtlqd_1_1TLqdInstrument.html#a1a3d7860412ff8634367f80ac40b68c8" title="Set the verbs for I2C read/write. " alt="" coords="475,13,668,39"/>
+<area shape="rect" id="node4" href="$classtlqd_1_1TLqdInstrument.html#afa2004ad29e899db73f3cbcb25585808" title="Enable/disable output. " alt="" coords="716,5,896,47"/>
+</map>

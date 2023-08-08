@@ -1,0 +1,10 @@
+<map id="tlqd.TLqdInstrument.listFormats" name="tlqd.TLqdInstrument.listFormats">
+<area shape="rect" id="node2" href="$classtlqd_1_1TLqdInstrument.html#ae3bdefe9e19b588c2e4fad8d3832c0e9" title="Update the current video image. " alt="" coords="212,5,393,47"/>
+<area shape="rect" id="node3" href="$classtlqd_1_1TLqdInstrument.html#a94f373b5a2cbf763a7948af4f96d4bec" title="Get the list of available video images. " alt="" coords="441,5,600,47"/>
+<area shape="rect" id="node4" href="$classtlqd_1_1TLqdInstrument.html#a2027619526815ea7dd255e7502c13d92" title="Get the video image parameters. " alt="" coords="648,5,844,47"/>
+<area shape="rect" id="node5" href="$classtlqd_1_1TLqdInstrument.html#a147d3549c641962b5309bd8093a19af4" title="Get the video image parameter value. " alt="" coords="892,5,1088,47"/>
+<area shape="rect" id="node6" href="$classtlqd_1_1TLqdInstrument.html#a1319425d3637c97a0320ef4021dcb834" title="Set a video image parameter value. " alt="" coords="1136,5,1332,47"/>
+<area shape="rect" id="node7" href="$classtlqd_1_1TLqdInstrument.html#a81bcd5dfc514aee3ef0145888f959d7b" title="Get the video image parameter value. " alt="" coords="1380,5,1576,47"/>
+<area shape="rect" id="node8" href="$classtlqd_1_1TLqdInstrument.html#ad53a0549c446105d6ff4a80205cb3bd7" title="Set scrambling mode. " alt="" coords="1624,13,1849,39"/>
+<area shape="rect" id="node9" href="$classtlqd_1_1TLqdInstrument.html#ac7e759b79a124c40d35500846235f743" title="Get the current scrambling mode. " alt="" coords="1897,13,2123,39"/>
+</map>

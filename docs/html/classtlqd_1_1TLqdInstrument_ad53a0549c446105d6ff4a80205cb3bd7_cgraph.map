@@ -1,0 +1,15 @@
+<map id="tlqd.TLqdInstrument.setScrambling" name="tlqd.TLqdInstrument.setScrambling">
+<area shape="rect" id="node2" href="$classtlqd_1_1TLqdInstrument.html#a81bcd5dfc514aee3ef0145888f959d7b" title="Get the video image parameter value. " alt="" coords="279,160,475,201"/>
+<area shape="rect" id="node4" href="$classtlqd_1_1TLqdInstrument.html#a9c55b94a316f85ff518a6bc53e3f5cd4" title="Send a command to the quantumdata instrument. " alt="" coords="1743,243,1941,270"/>
+<area shape="rect" id="node13" href="$classtlqd_1_1TLqdInstrument.html#a8866716a4c9aee4e2283e95f0536afb2" title="Set the video image rendition value. " alt="" coords="1255,76,1451,117"/>
+<area shape="rect" id="node3" href="$classtlqd_1_1TLqdInstrument.html#a1319425d3637c97a0320ef4021dcb834" title="Set a video image parameter value. " alt="" coords="523,355,719,396"/>
+<area shape="rect" id="node6" href="$classtlqd_1_1TLqdInstrument.html#a147d3549c641962b5309bd8093a19af4" title="Get the video image parameter value. " alt="" coords="767,355,963,396"/>
+<area shape="rect" id="node5" href="$classtlqd_1_1TLqdInstrument.html#a23f165c8f9378f90e15ef243733ec548" title="Close the connection to the quantumdata instrument. " alt="" coords="1989,243,2163,270"/>
+<area shape="rect" id="node7" href="$classtlqd_1_1TLqdInstrument.html#a2027619526815ea7dd255e7502c13d92" title="Get the video image parameters. " alt="" coords="1011,325,1207,367"/>
+<area shape="rect" id="node8" href="$classtlqd_1_1TLqdInstrument.html#a0d99ab2f7195b9bcdd231734486f65a9" title="Get the current video image name. " alt="" coords="1255,303,1451,330"/>
+<area shape="rect" id="node10" href="$classtlqd_1_1TLqdInstrument.html#a94f373b5a2cbf763a7948af4f96d4bec" title="Get the list of available video images. " alt="" coords="1273,355,1432,396"/>
+<area shape="rect" id="node9" href="$classtlqd_1_1TLqdInstrument.html#a67f5e39f66a14ad9c6bb4e5ef4b8e9c2" title="Set a video image. " alt="" coords="1499,319,1695,346"/>
+<area shape="rect" id="node11" href="$classtlqd_1_1TLqdInstrument.html#ae3bdefe9e19b588c2e4fad8d3832c0e9" title="Update the current video image. " alt="" coords="1506,472,1687,513"/>
+<area shape="rect" id="node12" href="$classtlqd_1_1TLqdInstrument.html#a8f0ac2aa54156699be80f77f620c6142" title="Get the list of available video formats. " alt="" coords="1763,472,1921,513"/>
+<area shape="rect" id="node14" href="$classtlqd_1_1TLqdInstrument.html#aa6a7cedd7093702ac93b2e8abefe33ce" title="Get the number of video image renditions. " alt="" coords="1499,101,1695,143"/>
+</map>

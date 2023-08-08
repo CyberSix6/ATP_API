@@ -1,0 +1,5 @@
+<map id="tlqd.TLqdSetFormat" name="tlqd.TLqdSetFormat">
+<area shape="rect" id="node2" href="$namespacetlqd.html#a4b69e992de53f288ae4bd4d17e0c6db8" title="Obtain version data about the quantumdata instrument. " alt="" coords="195,5,315,32"/>
+<area shape="rect" id="node4" href="$namespacetlqd.html#a33a3c61010f68c82b4286288e35a12e8" title="Obtain data about what is installed on the quantumdata instrument. " alt="" coords="191,56,319,83"/>
+<area shape="rect" id="node3" href="$namespacetlqd.html#a592fd46aec54c1659b08bc45b3cb790e" title="Connect to a quantumdata instrument via telnet. " alt="" coords="367,5,528,32"/>
+</map>

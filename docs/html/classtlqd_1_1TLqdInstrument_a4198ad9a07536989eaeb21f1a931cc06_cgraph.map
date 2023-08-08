@@ -1,0 +1,6 @@
+<map id="tlqd.TLqdInstrument.getEarcAudio" name="tlqd.TLqdInstrument.getEarcAudio">
+<area shape="rect" id="node2" href="$classtlqd_1_1TLqdInstrument.html#ac8ce4e78feebd624fccb9529887ba871" title="Set a compressed audio format. " alt="" coords="240,5,475,47"/>
+<area shape="rect" id="node3" href="$classtlqd_1_1TLqdInstrument.html#a9c55b94a316f85ff518a6bc53e3f5cd4" title="Send a command to the quantumdata instrument. " alt="" coords="258,71,457,98"/>
+<area shape="rect" id="node5" href="$classtlqd_1_1TLqdInstrument.html#ab43131921f0dbcc4b25370cc7795fbb7" title="Get the compressed audio format in use. " alt="" coords="240,123,475,164"/>
+<area shape="rect" id="node4" href="$classtlqd_1_1TLqdInstrument.html#a23f165c8f9378f90e15ef243733ec548" title="Close the connection to the quantumdata instrument. " alt="" coords="523,71,696,98"/>
+</map>

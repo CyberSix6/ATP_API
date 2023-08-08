@@ -1,0 +1,6 @@
+<map id="tlqd.TLqdInstrument.readCapabilityRegisters" name="tlqd.TLqdInstrument.readCapabilityRegisters">
+<area shape="rect" id="node2" href="$classtlqd_1_1TLqdInstrument.html#a204d3060d7ed6e05eee772324afd4896" title="Set new DisplayPort capability register(s) on the sink. " alt="" coords="220,5,439,47"/>
+<area shape="rect" id="node3" href="$classtlqd_1_1TLqdInstrument.html#a4f069ed4304186735e32ba63a5a07e72" title="Get the current Test Auto register from the sink. " alt="" coords="487,5,673,47"/>
+<area shape="rect" id="node4" href="$classtlqd_1_1TLqdInstrument.html#a63b6a478f0785ddbe765dd812277ebed" title="Set new Test Auto register on the sink. " alt="" coords="721,5,908,47"/>
+<area shape="rect" id="node5" href="$classtlqd_1_1TLqdInstrument.html#a88e2e44ffad7d725ae146e721d08da37" title="Set audio LPCM. " alt="" coords="956,13,1149,39"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="tlqd.TLqdInstrument.close" name="tlqd.TLqdInstrument.close">
+<area shape="rect" id="node2" href="$classtlqd_1_1TLqdInstrument.html#a9c55b94a316f85ff518a6bc53e3f5cd4" title="Send a command to the quantumdata instrument. " alt="" coords="237,1323,436,1350"/>
+<area shape="rect" id="node26" href="$classtlqd_1_1TLqdInstrument.html#a3aee3b94243c8891b022242276231bd9" title="Get the compliance test execution results. " alt="" coords="521,2474,699,2516"/>
+<area shape="rect" id="node27" href="$classtlqd_1_1TLqdInstrument.html#a44f0936979a2da7757b8bc0882835822" title="Transfer remote data to local using FTP based on test result status and user choices. " alt="" coords="781,2474,985,2516"/>
+<area shape="rect" id="node48" href="$classtlqd_1_1TLqdInstrument.html#ac866d9b4e712a3b97a281d3c2b44a073" title="Is eARC supported? " alt="" coords="521,2592,699,2633"/>
+<area shape="rect" id="node49" href="$classtlqd_1_1TLqdInstrument.html#a6d659a4c61eb85c590e00efb21a42c9e" title="Save EDID data to a file, transfer it to the quantumdata instrument. " alt="" coords="251,2642,422,2684"/>
+<area shape="rect" id="node50" href="$classtlqd_1_1TLqdInstrument.html#a811b8f59b0a81385f0e851d3466ff9f4" title="Execute eARC sink test HFR5&#45;2&#45;25. " alt="" coords="227,2708,447,2735"/>
+<area shape="rect" id="node3" href="$classtlqd_1_1TLqdInstrument.html#aca68416b4a37c840f3c73ca7ac8c30bc" title="Connect via telnet. " alt="" coords="516,492,704,533"/>
+<area shape="rect" id="node4" href="$classtlqd_1_1TLqdInstrument.html#ac6820d10abcd3bf192086f96e6229f9c" title="Obtain version data about the quantumdata instrument. " alt="" coords="508,582,712,608"/>
+<area shape="rect" id="node5" href="$classtlqd_1_1TLqdInstrument.html#ab5a42374a3ddefd11be9346785426f51" title="Obtain data about what is licensed on the quantumdata instrument. " alt="" coords="504,390,716,416"/>
+<area shape="rect" id="node6" href="$classtlqd_1_1TLqdInstrument.html#a0783caba826e37aa393da3f6291d05b3" title="Select a card for use. " alt="" coords="773,415,992,442"/>
+<area shape="rect" id="node7" href="$classtlqd_1_1TLqdInstrument.html#a4b8151c9a62ac118e6818f81808c85c9" title="Create Video frame Bitmap or Text file. " alt="" coords="521,734,699,776"/>
+<area shape="rect" id="node8" href="$classtlqd_1_1TLqdInstrument.html#a75434fc067d2863b66d4cb04e7d1510d" title="Enable/Disable the Info frame packets. " alt="" coords="521,800,699,841"/>
+<area shape="rect" id="node9" href="$classtlqd_1_1TLqdInstrument.html#a295e3c236b53db197c023ed160b32479" title="Get the Info Frame Packet data(ISRC1, ISRC2 and ACP) " alt="" coords="519,865,701,906"/>
+<area shape="rect" id="node10" href="$classtlqd_1_1TLqdInstrument.html#a3ebe095a59e1381e8a26fe2930b7697f" title="Set a 3D video format. " alt="" coords="523,930,697,972"/>
+<area shape="rect" id="node11" href="$classtlqd_1_1TLqdInstrument.html#ac18139ce7e1c9c51ab18116bb68e3a0b" title="Set Hot Plug. " alt="" coords="507,996,713,1023"/>
+<area shape="rect" id="node12" href="$classtlqd_1_1TLqdInstrument.html#aba58612ede52214c13d9d682b2f3b202" title="Get Error info. " alt="" coords="505,222,715,248"/>
+<area shape="rect" id="node13" href="$classtlqd_1_1TLqdInstrument.html#a570545b809342561eb9c389569c1c0c6" title="Get Tx link training status. " alt="" coords="795,201,970,242"/>
+<area shape="rect" id="node14" href="$classtlqd_1_1TLqdInstrument.html#a29f3acab95689a5d6fd61be7fa2e3ee2" title="Get an integer value . " alt="" coords="1041,208,1235,235"/>
+<area shape="rect" id="node15" href="$classtlqd_1_1TLqdInstrument.html#a1eff4e9cef9327093e2243ceb242eb9b" title="Get Sink status. " alt="" coords="1289,161,1475,202"/>
+<area shape="rect" id="node16" href="$classtlqd_1_1TLqdInstrument.html#adca5db81a45e9420a3fb02455be94c39" title="Get Time report. " alt="" coords="511,1250,709,1292"/>
+<area shape="rect" id="node17" href="$classtlqd_1_1TLqdInstrument.html#a2c923e67b22f8f2c9612b4b9ae8d1237" title="&quot;Generate Test pattern " alt="" coords="514,1316,706,1357"/>
+<area shape="rect" id="node18" href="$classtlqd_1_1TLqdInstrument.html#a4b708e07cd250e4003abe633bc337aa3" title="Get DP Compliance test description for the given test. " alt="" coords="521,1381,699,1422"/>
+<area shape="rect" id="node19" href="$classtlqd_1_1TLqdInstrument.html#a39d029c7c65409e487d92bc78ba2187e" title="Set DSC Paramters. " alt="" coords="518,1447,702,1474"/>
+<area shape="rect" id="node20" href="$classtlqd_1_1TLqdInstrument.html#a876ca0362c5bffe587b22d799adc9a00" title="Set LTTPR emulation. " alt="" coords="517,1498,703,1524"/>
+<area shape="rect" id="node21" href="$classtlqd_1_1TLqdInstrument.html#a38b82772b359f2cdbe1f1645a173e65e" title="Set MST. " alt="" coords="519,1098,701,1124"/>
+<area shape="rect" id="node22" href="$classtlqd_1_1TLqdInstrument.html#a430ed6e89b382d028b506cfe39403cfa" title="Set SPDIF. " alt="" coords="787,1098,978,1124"/>
+<area shape="rect" id="node23" href="$classtlqd_1_1TLqdInstrument.html#aff948e5d097161af229bd1d14d1e4269" title="set Usb " alt="" coords="1046,1123,1230,1150"/>
+<area shape="rect" id="node24" href="$classtlqd_1_1TLqdInstrument.html#a1c38b535d0b1c70f33680724fc8aad2a" title="Set HDCP. " alt="" coords="515,1716,705,1743"/>
+<area shape="rect" id="node25" href="$classtlqd_1_1TLqdInstrument.html#a5eaa9f9cd9ff6f1d946f1de513b79296" title="Get Step information. " alt="" coords="521,1768,699,1809"/>
+<area shape="rect" id="node28" href="$classtlqd_1_1TLqdInstrument.html#a3932fddc922fc54f6bdd0974a13dc059" title="Execute HDCP 2.x compliance test. " alt="" coords="495,1884,725,1911"/>
+<area shape="rect" id="node29" href="$classtlqd_1_1TLqdInstrument.html#ae687cf5da577a90b01790fd337248357" title="Execute DP 1.4 sink compliance test. " alt="" coords="515,1650,705,1692"/>
+<area shape="rect" id="node30" href="$classtlqd_1_1TLqdInstrument.html#a5f9c886a2f8d6bd43e05e59cc289e71e" title="Execute DP 1.2 source compliance test. " alt="" coords="787,1625,978,1666"/>
+<area shape="rect" id="node31" href="$classtlqd_1_1TLqdInstrument.html#a3a9a8def18b0aa42eff27956b0908edf" title="Execute DP 1.2 sink compliance test. " alt="" coords="1043,1625,1233,1666"/>
+<area shape="rect" id="node32" href="$classtlqd_1_1TLqdInstrument.html#a04eacd204f411d4a5e089fb3af8c6b8b" title="Execute DP 2.0 source compliance test. " alt="" coords="1287,1541,1477,1582"/>
+<area shape="rect" id="node33" href="$classtlqd_1_1TLqdInstrument.html#a4d1f391fac997519060c63523858e97c" title="Execute DP 2.0 sink compliance test. " alt="" coords="1531,1192,1721,1233"/>
+<area shape="rect" id="node34" href="$classtlqd_1_1TLqdInstrument.html#a6e0ad35734cc3c8c95211da0e6ae16ba" title="Execute DP Edid source compliance test. " alt="" coords="1781,933,1959,974"/>
+<area shape="rect" id="node35" href="$classtlqd_1_1TLqdInstrument.html#ac87735d1f7640a6fad7014d34be0d553" title="Execute DP Edid sink compliance test. " alt="" coords="2016,933,2193,974"/>
+<area shape="rect" id="node36" href="$classtlqd_1_1TLqdInstrument.html#a45d79fcfa05cbfe6ec6973b30655f7c0" title="Get the current video format data being transmitted. " alt="" coords="2241,70,2443,96"/>
+<area shape="rect" id="node37" href="$classtlqd_1_1TLqdInstrument.html#a3243735f47ff9a25f8af98b051ac9bfb" title="Get the current 3D video format data being transmitted. " alt="" coords="2491,37,2665,78"/>
+<area shape="rect" id="node38" href="$classtlqd_1_1TLqdInstrument.html#ab38b657edf49748064aea52a9723ec65" title="Get the video format parameters. " alt="" coords="509,2357,711,2398"/>
+<area shape="rect" id="node39" href="$classtlqd_1_1TLqdInstrument.html#ae3bdefe9e19b588c2e4fad8d3832c0e9" title="Update the current video image. " alt="" coords="519,2088,701,2129"/>
+<area shape="rect" id="node40" href="$classtlqd_1_1TLqdInstrument.html#a94f373b5a2cbf763a7948af4f96d4bec" title="Get the list of available video images. " alt="" coords="803,2138,962,2180"/>
+<area shape="rect" id="node41" href="$classtlqd_1_1TLqdInstrument.html#a2027619526815ea7dd255e7502c13d92" title="Get the video image parameters. " alt="" coords="1040,2168,1236,2209"/>
+<area shape="rect" id="node42" href="$classtlqd_1_1TLqdInstrument.html#a147d3549c641962b5309bd8093a19af4" title="Get the video image parameter value. " alt="" coords="1284,2037,1480,2078"/>
+<area shape="rect" id="node43" href="$classtlqd_1_1TLqdInstrument.html#a1319425d3637c97a0320ef4021dcb834" title="Set a video image parameter value. " alt="" coords="1528,1986,1724,2028"/>
+<area shape="rect" id="node44" href="$classtlqd_1_1TLqdInstrument.html#a81bcd5dfc514aee3ef0145888f959d7b" title="Get the video image parameter value. " alt="" coords="1772,1957,1968,1998"/>
+<area shape="rect" id="node45" href="$classtlqd_1_1TLqdInstrument.html#a0d99ab2f7195b9bcdd231734486f65a9" title="Get the current video image name. " alt="" coords="785,2255,981,2282"/>
+<area shape="rect" id="node46" href="$classtlqd_1_1TLqdInstrument.html#aa6a7cedd7093702ac93b2e8abefe33ce" title="Get the number of video image renditions. " alt="" coords="512,273,708,314"/>
+<area shape="rect" id="node47" href="$classtlqd_1_1TLqdInstrument.html#a8866716a4c9aee4e2283e95f0536afb2" title="Set the video image rendition value. " alt="" coords="785,302,981,344"/>
+</map>

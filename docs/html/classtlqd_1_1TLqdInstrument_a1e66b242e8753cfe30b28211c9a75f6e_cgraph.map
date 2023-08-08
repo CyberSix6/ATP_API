@@ -1,0 +1,7 @@
+<map id="tlqd.TLqdInstrument.i2cr" name="tlqd.TLqdInstrument.i2cr">
+<area shape="rect" id="node2" href="$classtlqd_1_1TLqdInstrument.html#a06314c11ccde617e1a43e0e7117650d2" title="Set the EDID file on the device. " alt="" coords="216,17,423,43"/>
+<area shape="rect" id="node4" href="$classtlqd_1_1TLqdInstrument.html#a9c55b94a316f85ff518a6bc53e3f5cd4" title="Send a command to the quantumdata instrument. " alt="" coords="705,42,904,69"/>
+<area shape="rect" id="node6" href="$classtlqd_1_1TLqdInstrument.html#ab53c9a70c3a25eadc8c98e0f4e6ca2d8" title="Transfer an EDID file to the quantumdata instrument. " alt="" coords="234,123,405,164"/>
+<area shape="rect" id="node3" href="$classtlqd_1_1TLqdInstrument.html#a9368b1b6236e6661a5046c61a58de578" title="Set an eARC compressed audio format. " alt="" coords="471,5,657,47"/>
+<area shape="rect" id="node5" href="$classtlqd_1_1TLqdInstrument.html#a23f165c8f9378f90e15ef243733ec548" title="Close the connection to the quantumdata instrument. " alt="" coords="952,42,1125,69"/>
+</map>

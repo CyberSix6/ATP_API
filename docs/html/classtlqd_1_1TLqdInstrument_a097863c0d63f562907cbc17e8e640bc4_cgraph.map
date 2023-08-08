@@ -1,0 +1,10 @@
+<map id="tlqd.TLqdInstrument.runHf2_24" name="tlqd.TLqdInstrument.runHf2_24">
+<area shape="rect" id="node2" href="$classtlqd_1_1TLqdInstrument.html#a0313ba69becce86215a207ca4db6cfec" title="Execute HDMI sink test HF2&#45;10. " alt="" coords="256,31,459,57"/>
+<area shape="rect" id="node3" href="$classtlqd_1_1TLqdInstrument.html#a0ae230913bb2b0e9fcc470add2b43934" title="Execute HDMI sink test HF2&#45;8. " alt="" coords="507,31,701,57"/>
+<area shape="rect" id="node4" href="$classtlqd_1_1TLqdInstrument.html#a73a166fd33bbeca3b5b6457be91fa64d" title="Execute HDMI sink test HF2&#45;7. " alt="" coords="749,31,944,57"/>
+<area shape="rect" id="node5" href="$classtlqd_1_1TLqdInstrument.html#a3dde798826774e12f5628af24e3d96c1" title="Execute HDMI sink test HF2&#45;5. " alt="" coords="992,5,1187,32"/>
+<area shape="rect" id="node6" href="$classtlqd_1_1TLqdInstrument.html#aa89824f0e42a5a77c698c36cf08e3a1d" title="Execute HDMI sink test HF2&#45;6. " alt="" coords="992,56,1187,83"/>
+<area shape="rect" id="node7" href="$classtlqd_1_1TLqdInstrument.html#a7fa3a7d9012ecefdc742985dc35cbe5a" title="Put a file on the quantumdata instrument via FTP. " alt="" coords="1243,31,1425,57"/>
+<area shape="rect" id="node8" href="$classtlqd_1_1TLqdInstrument.html#a9c55b94a316f85ff518a6bc53e3f5cd4" title="Send a command to the quantumdata instrument. " alt="" coords="1235,81,1433,108"/>
+<area shape="rect" id="node9" href="$classtlqd_1_1TLqdInstrument.html#a23f165c8f9378f90e15ef243733ec548" title="Close the connection to the quantumdata instrument. " alt="" coords="1481,81,1655,108"/>
+</map>

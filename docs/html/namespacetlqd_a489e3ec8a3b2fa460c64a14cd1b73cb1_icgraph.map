@@ -1,0 +1,11 @@
+<map id="tlqd.TLqdHFR2_20" name="tlqd.TLqdHFR2_20">
+<area shape="rect" id="node2" href="$namespaceFrlSinkTests.html#a63e3aed41ff34772e9ba16fedd84c0df" title="Display test results. " alt="" coords="545,31,721,57"/>
+<area shape="rect" id="node3" href="$namespacetlqd.html#aa9a74acf3a6315799654ddb909f46130" title="Run HDMI sink test HFR2&#45;48. " alt="" coords="185,31,317,57"/>
+<area shape="rect" id="node4" href="$namespacetlqd.html#aace1c7fa599a4465570b854a268c7241" title="Run HDMI sink test HFR2&#45;51. " alt="" coords="365,81,497,108"/>
+<area shape="rect" id="node5" href="$namespacetlqd.html#a03845060f080195fa3824a7d6c666137" title="Run HDMI sink test HFR2&#45;53. " alt="" coords="567,81,699,108"/>
+<area shape="rect" id="node6" href="$namespacetlqd.html#a0f3776dc6f7fecc8023cf3199a8718c4" title="Run DSC sink test HFR2&#45;80. " alt="" coords="769,81,901,108"/>
+<area shape="rect" id="node7" href="$namespacetlqd.html#a78cead30b668c9badd8d9bee64bb5060" title="Run DSC sink test HFR2&#45;82. " alt="" coords="949,81,1081,108"/>
+<area shape="rect" id="node8" href="$namespacetlqd.html#a6c8ec40733b6f8fdd39c5adcab66e0f3" title="Run DSC sink test HFR2&#45;84. " alt="" coords="1129,81,1261,108"/>
+<area shape="rect" id="node9" href="$namespacetlqd.html#a3ed429333843cc35d6271cf3527569a9" title="Get the current DisplayPort capability register(s) from the sink. " alt="" coords="1309,81,1520,108"/>
+<area shape="rect" id="node10" href="$namespacetlqd.html#a7d6ce5eab7f4849daa9bff0afa2f5976" title="Set new Test Auto register on the sink. " alt="" coords="1568,81,1767,108"/>
+</map>

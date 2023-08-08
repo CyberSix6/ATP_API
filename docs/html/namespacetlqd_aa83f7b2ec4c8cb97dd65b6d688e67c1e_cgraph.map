@@ -1,0 +1,10 @@
+<map id="tlqd.TLqd7_27" name="tlqd.TLqd7_27">
+<area shape="rect" id="node2" href="$namespacetlqd.html#a38e7d0d8a59d0ffa60f7efb5aa418e5d" title="Run HDMI 1.4 source test 7&#45;24. " alt="" coords="157,13,261,39"/>
+<area shape="rect" id="node3" href="$namespacetlqd.html#a2c20ad4d0d87ee9d29fa25f9a1be8549" title="Run HDMI 1.4 source test 7&#45;18. " alt="" coords="309,13,413,39"/>
+<area shape="rect" id="node4" href="$namespacetlqd.html#aafb781ecb956b9aab7c8be9067616ede" title="Is eARC audio supported? " alt="" coords="461,13,635,39"/>
+<area shape="rect" id="node5" href="$namespacetlqd.html#a7ef2066c9029380ada7150a7306fda10" title="Get a vendor specific infoframe. " alt="" coords="683,5,868,47"/>
+<area shape="rect" id="node6" href="$namespacetlqd.html#aa232bee54630efbc3a66529ba0414ad8" title="Get an audio infoframe. " alt="" coords="916,13,1101,39"/>
+<area shape="rect" id="node7" href="$namespacetlqd.html#a9598e3598fd19de63205146e2cac5f7c" title="Set scrambling mode. " alt="" coords="1149,13,1311,39"/>
+<area shape="rect" id="node8" href="$namespacetlqd.html#a77c39ebee9636b0d6a283ae378fc839f" title="Set a video image parameter value. " alt="" coords="1359,13,1551,39"/>
+<area shape="rect" id="node9" href="$namespacetlqd.html#a874f088a39398bce71af6f6a26217da3" title="Get the Info Frame Packet data(ISRC1, ISRC2 and ACP) " alt="" coords="1599,13,1783,39"/>
+</map>

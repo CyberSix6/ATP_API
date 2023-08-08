@@ -1,0 +1,5 @@
+<map id="tlqd.TLqdInstrument.setEdidFile" name="tlqd.TLqdInstrument.setEdidFile">
+<area shape="rect" id="node2" href="$classtlqd_1_1TLqdInstrument.html#a9368b1b6236e6661a5046c61a58de578" title="Set an eARC compressed audio format. " alt="" coords="260,5,447,47"/>
+<area shape="rect" id="node3" href="$classtlqd_1_1TLqdInstrument.html#a9c55b94a316f85ff518a6bc53e3f5cd4" title="Send a command to the quantumdata instrument. " alt="" coords="495,13,693,39"/>
+<area shape="rect" id="node4" href="$classtlqd_1_1TLqdInstrument.html#a23f165c8f9378f90e15ef243733ec548" title="Close the connection to the quantumdata instrument. " alt="" coords="741,13,915,39"/>
+</map>

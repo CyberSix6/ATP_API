@@ -1,0 +1,37 @@
+<map id="tlqd.TLqdHFR1_82" name="tlqd.TLqdHFR1_82">
+<area shape="rect" id="node2" href="$namespacetlqd.html#a20824c9e4f37621ffc524513908b68db" title="Run FRL source test HFR1&#45;84. " alt="" coords="185,31,317,57"/>
+<area shape="rect" id="node3" href="$namespacetlqd.html#a77e25359a7c2792fa5a808d930c72108" title="Run eARC source test HFR5&#45;1&#45;20. " alt="" coords="365,31,512,57"/>
+<area shape="rect" id="node4" href="$namespacetlqd.html#a6f41dc1a2217b243b8675f83077f7919" title="Run eARC source test HFR5&#45;1&#45;23. " alt="" coords="560,31,707,57"/>
+<area shape="rect" id="node5" href="$namespacetlqd.html#a27dd7afefceda7e95557341f99351d32" title="Run eARC source test HFR5&#45;1&#45;26. " alt="" coords="755,31,901,57"/>
+<area shape="rect" id="node6" href="$namespacetlqd.html#a28d0481cc227c7c45da35e8a3313f9bf" title="Run eARC source test HFR5&#45;1&#45;29. " alt="" coords="949,31,1096,57"/>
+<area shape="rect" id="node7" href="$namespacetlqd.html#aa058b44165875d85afc1808c19adedff" title="Run eARC source test HFR5&#45;1&#45;34. " alt="" coords="1144,31,1291,57"/>
+<area shape="rect" id="node8" href="$namespacetlqd.html#a3adc4284bb6a65b8ef4ec12e2d24fca1" title="Run eARC source test HFR5&#45;1&#45;37. " alt="" coords="1339,31,1485,57"/>
+<area shape="rect" id="node9" href="$namespacetlqd.html#ab26b4cb303e9ecd9d902ab6196faf1f5" title="Run eARC source test HFR5&#45;1&#45;50. " alt="" coords="1533,31,1680,57"/>
+<area shape="rect" id="node10" href="$namespacetlqd.html#aea3bf3451c7b58bddb6b3bd51441256a" title="Run eARC source test HFR5&#45;1&#45;55. " alt="" coords="1728,31,1875,57"/>
+<area shape="rect" id="node11" href="$namespacetlqd.html#aaddcb79e56505d8136be63affadab48f" title="Run eARC source test HFR5&#45;1&#45;58. " alt="" coords="1923,31,2069,57"/>
+<area shape="rect" id="node12" href="$namespacetlqd.html#ad0f83d0e61c452c41a7326273cbe01f8" title="Run eARC sink test HFR5&#45;2&#45;21. " alt="" coords="2117,31,2264,57"/>
+<area shape="rect" id="node13" href="$namespaceeArcSinkTests.html#abc1ed44ac280395c501ad8f2c441f73b" title="Display test results. " alt="" coords="2507,5,2695,32"/>
+<area shape="rect" id="node14" href="$namespacetlqd.html#a65edf49701139366f7cf331d2b9b7c90" title="Run eARC sink test HFR5&#45;2&#45;24. " alt="" coords="2312,56,2459,83"/>
+<area shape="rect" id="node15" href="$namespacetlqd.html#ae30eea8284239b86156c047043967077" title="Run HDMI sink test HF2&#45;6. " alt="" coords="2543,56,2658,83"/>
+<area shape="rect" id="node16" href="$namespaceHdmiSinkTests.html#a0bbfc98b913961a485917895d666b665" title="Display test results. " alt="" coords="3247,107,3439,133"/>
+<area shape="rect" id="node17" href="$namespacetlqd.html#a9a0c62fabc60e6ae2ddd1ad27e866bd9" title="Run HDMI sink test HF2&#45;8. " alt="" coords="2743,81,2857,108"/>
+<area shape="rect" id="node18" href="$namespacetlqd.html#a4d5d839bcf7db678f60393b293b71a4d" title="Run HDMI sink test HF2&#45;23. " alt="" coords="2905,132,3028,159"/>
+<area shape="rect" id="node19" href="$namespacetlqd.html#a091cc843ea6d87ca4b2a7bdade5975b3" title="Run HDMI sink test HF2&#45;25. " alt="" coords="3076,183,3199,209"/>
+<area shape="rect" id="node20" href="$namespacetlqd.html#adcc8da538bd36ed1f4b24bf152c4a068" title="Run HDMI sink test HF2&#45;31. " alt="" coords="3281,183,3404,209"/>
+<area shape="rect" id="node21" href="$namespacetlqd.html#a0e06d5557018cc815f3424350132d15c" title="Run HDMI sink test HF2&#45;35. " alt="" coords="3487,183,3609,209"/>
+<area shape="rect" id="node22" href="$namespacetlqd.html#ab3c2ee35ef89b9ea8fd5b655fe016fd5" title="Run HDMI sink test HF2&#45;40. " alt="" coords="3657,183,3780,209"/>
+<area shape="rect" id="node23" href="$namespacetlqd.html#a3ec9e1b0bd095fdef300c84fcfdd348f" title="Run HDMI sink test HF2&#45;43. " alt="" coords="3828,183,3951,209"/>
+<area shape="rect" id="node24" href="$namespacetlqd.html#ada9a51870aae3261adf3d89dcd737f29" title="Run HDMI sink test HF2&#45;53. " alt="" coords="3999,183,4121,209"/>
+<area shape="rect" id="node25" href="$namespacetlqd.html#a0914522478c14c85d2ed6143cb5c4da7" title="Run HDMI sink test HF2&#45;71. " alt="" coords="4169,183,4292,209"/>
+<area shape="rect" id="node26" href="$namespacetlqd.html#aa7706788e75491e7f3cc466d29e47dc9" title="Run HDMI sink test HFR2&#45;17. " alt="" coords="4340,183,4472,209"/>
+<area shape="rect" id="node27" href="$namespacetlqd.html#a489e3ec8a3b2fa460c64a14cd1b73cb1" title="Run HDMI sink test HFR2&#45;20. " alt="" coords="4520,183,4652,209"/>
+<area shape="rect" id="node28" href="$namespaceFrlSinkTests.html#a63e3aed41ff34772e9ba16fedd84c0df" title="Display test results. " alt="" coords="5060,208,5236,235"/>
+<area shape="rect" id="node29" href="$namespacetlqd.html#aa9a74acf3a6315799654ddb909f46130" title="Run HDMI sink test HFR2&#45;48. " alt="" coords="4700,208,4832,235"/>
+<area shape="rect" id="node30" href="$namespacetlqd.html#aace1c7fa599a4465570b854a268c7241" title="Run HDMI sink test HFR2&#45;51. " alt="" coords="4880,259,5012,285"/>
+<area shape="rect" id="node31" href="$namespacetlqd.html#a03845060f080195fa3824a7d6c666137" title="Run HDMI sink test HFR2&#45;53. " alt="" coords="5082,259,5214,285"/>
+<area shape="rect" id="node32" href="$namespacetlqd.html#a0f3776dc6f7fecc8023cf3199a8718c4" title="Run DSC sink test HFR2&#45;80. " alt="" coords="5284,259,5416,285"/>
+<area shape="rect" id="node33" href="$namespacetlqd.html#a78cead30b668c9badd8d9bee64bb5060" title="Run DSC sink test HFR2&#45;82. " alt="" coords="5464,259,5596,285"/>
+<area shape="rect" id="node34" href="$namespacetlqd.html#a6c8ec40733b6f8fdd39c5adcab66e0f3" title="Run DSC sink test HFR2&#45;84. " alt="" coords="5644,259,5776,285"/>
+<area shape="rect" id="node35" href="$namespacetlqd.html#a3ed429333843cc35d6271cf3527569a9" title="Get the current DisplayPort capability register(s) from the sink. " alt="" coords="5824,259,6035,285"/>
+<area shape="rect" id="node36" href="$namespacetlqd.html#a7d6ce5eab7f4849daa9bff0afa2f5976" title="Set new Test Auto register on the sink. " alt="" coords="6083,259,6281,285"/>
+</map>

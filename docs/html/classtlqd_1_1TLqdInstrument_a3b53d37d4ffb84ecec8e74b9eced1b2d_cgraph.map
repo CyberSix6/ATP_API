@@ -1,0 +1,5 @@
+<map id="tlqd.TLqdInstrument.updateFormatParameters" name="tlqd.TLqdInstrument.updateFormatParameters">
+<area shape="rect" id="node2" href="$classtlqd_1_1TLqdInstrument.html#ab38b657edf49748064aea52a9723ec65" title="Get the video format parameters. " alt="" coords="235,5,436,47"/>
+<area shape="rect" id="node3" href="$classtlqd_1_1TLqdInstrument.html#a9c55b94a316f85ff518a6bc53e3f5cd4" title="Send a command to the quantumdata instrument. " alt="" coords="484,13,683,39"/>
+<area shape="rect" id="node4" href="$classtlqd_1_1TLqdInstrument.html#a23f165c8f9378f90e15ef243733ec548" title="Close the connection to the quantumdata instrument. " alt="" coords="731,13,904,39"/>
+</map>

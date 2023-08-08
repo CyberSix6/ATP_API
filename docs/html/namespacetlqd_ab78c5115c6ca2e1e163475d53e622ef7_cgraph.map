@@ -1,0 +1,5 @@
+<map id="tlqd.TLqdGetPixel" name="tlqd.TLqdGetPixel">
+<area shape="rect" id="node2" href="$namespacetlqd.html#a0ea2be10f012dcf9f04510a758315250" title="Set the video image rendition. " alt="" coords="180,5,367,32"/>
+<area shape="rect" id="node3" href="$namespacetlqd.html#a0220c5c1de89f5f9e4e971aeae3e54b8" title="Get the video image parameter value. " alt="" coords="415,5,608,32"/>
+<area shape="rect" id="node4" href="$namespacetlqd.html#ace3dac2f0c6affd4be59ebe36343bcf6" title="Set the the Info Frame Packet data(ISRC1, ISRC2 and ACP) " alt="" coords="656,5,804,32"/>
+</map>

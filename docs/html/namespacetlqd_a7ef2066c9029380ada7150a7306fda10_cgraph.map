@@ -1,0 +1,6 @@
+<map id="tlqd.TLqdGetVendorSpecificInfoframe" name="tlqd.TLqdGetVendorSpecificInfoframe">
+<area shape="rect" id="node2" href="$namespacetlqd.html#aa232bee54630efbc3a66529ba0414ad8" title="Get an audio infoframe. " alt="" coords="239,13,424,39"/>
+<area shape="rect" id="node3" href="$namespacetlqd.html#a9598e3598fd19de63205146e2cac5f7c" title="Set scrambling mode. " alt="" coords="472,13,633,39"/>
+<area shape="rect" id="node4" href="$namespacetlqd.html#a77c39ebee9636b0d6a283ae378fc839f" title="Set a video image parameter value. " alt="" coords="681,13,873,39"/>
+<area shape="rect" id="node5" href="$namespacetlqd.html#a874f088a39398bce71af6f6a26217da3" title="Get the Info Frame Packet data(ISRC1, ISRC2 and ACP) " alt="" coords="921,13,1105,39"/>
+</map>

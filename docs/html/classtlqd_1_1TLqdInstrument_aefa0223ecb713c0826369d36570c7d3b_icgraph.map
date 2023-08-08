@@ -1,0 +1,5 @@
+<map id="tlqd.TLqdInstrument.getDrmInfoframe" name="tlqd.TLqdInstrument.getDrmInfoframe">
+<area shape="rect" id="node2" href="$classtlqd_1_1TLqdInstrument.html#a6c7f131db4d29f956a59d9fa88dadec5" title="Get a vendor specific infoframe. " alt="" coords="239,5,440,47"/>
+<area shape="rect" id="node3" href="$classtlqd_1_1TLqdInstrument.html#a648ed3292316d2ab0cbaaaecb2255405" title="Get the video format parameters being received. " alt="" coords="488,5,703,47"/>
+<area shape="rect" id="node4" href="$classtlqd_1_1TLqdInstrument.html#ac866d9b4e712a3b97a281d3c2b44a073" title="Is eARC supported? " alt="" coords="751,5,929,47"/>
+</map>

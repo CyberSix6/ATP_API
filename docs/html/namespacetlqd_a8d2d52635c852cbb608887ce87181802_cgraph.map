@@ -1,0 +1,10 @@
+<map id="tlqd.TLqd7_26" name="tlqd.TLqd7_26">
+<area shape="rect" id="node2" href="$namespacetlqd.html#acb21579a70bf4521bcc371795db9c688" title="Run HDMI 1.4 source test 7&#45;23. " alt="" coords="157,5,261,32"/>
+<area shape="rect" id="node3" href="$namespacetlqd.html#a6548b515431f37be851ca2689ca4045c" title="Run HDMI 1.4 source test 7&#45;17. " alt="" coords="309,5,413,32"/>
+<area shape="rect" id="node4" href="$namespacetlqd.html#ac1b66a99ed5ff9f792e9e67ac018c99a" title="Is ARC audio supported? " alt="" coords="461,5,628,32"/>
+<area shape="rect" id="node5" href="$namespacetlqd.html#a14540eca539b630c7ccb0b31abc04bdd" title="Get a general control packet. " alt="" coords="676,5,797,32"/>
+<area shape="rect" id="node6" href="$namespacetlqd.html#ab78c5115c6ca2e1e163475d53e622ef7" title="Get one pixel. " alt="" coords="845,5,972,32"/>
+<area shape="rect" id="node7" href="$namespacetlqd.html#a0ea2be10f012dcf9f04510a758315250" title="Set the video image rendition. " alt="" coords="1020,5,1207,32"/>
+<area shape="rect" id="node8" href="$namespacetlqd.html#a0220c5c1de89f5f9e4e971aeae3e54b8" title="Get the video image parameter value. " alt="" coords="1255,5,1448,32"/>
+<area shape="rect" id="node9" href="$namespacetlqd.html#ace3dac2f0c6affd4be59ebe36343bcf6" title="Set the the Info Frame Packet data(ISRC1, ISRC2 and ACP) " alt="" coords="1496,5,1644,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="tlqd.TLqdSetEdidData" name="tlqd.TLqdSetEdidData">
+<area shape="rect" id="node2" href="$namespacetlqd.html#ae1e238ffed02e00bb4664366f4d16619" title="Set an eARC compressed audio format. " alt="" coords="204,5,401,47"/>
+<area shape="rect" id="node3" href="$namespacetlqd.html#ae14b6a7616cb862fc724cdccec58f6b3" title="Get the compressed audio format in use. " alt="" coords="449,13,653,39"/>
+<area shape="rect" id="node4" href="$namespacetlqd.html#ae89804731c244d69c72db76714bd2677" title="Set audio LPCM. " alt="" coords="701,13,831,39"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="tlqd.TLqdInstrument.getImageRendition" name="tlqd.TLqdInstrument.getImageRendition">
+<area shape="rect" id="node2" href="$classtlqd_1_1TLqdInstrument.html#a1319425d3637c97a0320ef4021dcb834" title="Set a video image parameter value. " alt="" coords="249,43,445,85"/>
+<area shape="rect" id="node3" href="$classtlqd_1_1TLqdInstrument.html#a9c55b94a316f85ff518a6bc53e3f5cd4" title="Send a command to the quantumdata instrument. " alt="" coords="1469,144,1668,171"/>
+<area shape="rect" id="node5" href="$classtlqd_1_1TLqdInstrument.html#a147d3549c641962b5309bd8093a19af4" title="Get the video image parameter value. " alt="" coords="493,94,689,135"/>
+<area shape="rect" id="node4" href="$classtlqd_1_1TLqdInstrument.html#a23f165c8f9378f90e15ef243733ec548" title="Close the connection to the quantumdata instrument. " alt="" coords="1716,144,1889,171"/>
+<area shape="rect" id="node6" href="$classtlqd_1_1TLqdInstrument.html#a2027619526815ea7dd255e7502c13d92" title="Get the video image parameters. " alt="" coords="737,166,933,207"/>
+<area shape="rect" id="node7" href="$classtlqd_1_1TLqdInstrument.html#a0d99ab2f7195b9bcdd231734486f65a9" title="Get the current video image name. " alt="" coords="981,195,1177,221"/>
+<area shape="rect" id="node9" href="$classtlqd_1_1TLqdInstrument.html#a94f373b5a2cbf763a7948af4f96d4bec" title="Get the list of available video images. " alt="" coords="1000,289,1159,330"/>
+<area shape="rect" id="node8" href="$classtlqd_1_1TLqdInstrument.html#a67f5e39f66a14ad9c6bb4e5ef4b8e9c2" title="Set a video image. " alt="" coords="1225,245,1421,272"/>
+<area shape="rect" id="node10" href="$classtlqd_1_1TLqdInstrument.html#ae3bdefe9e19b588c2e4fad8d3832c0e9" title="Update the current video image. " alt="" coords="1233,347,1414,389"/>
+<area shape="rect" id="node11" href="$classtlqd_1_1TLqdInstrument.html#a8f0ac2aa54156699be80f77f620c6142" title="Get the list of available video formats. " alt="" coords="1489,347,1648,389"/>
+</map>
